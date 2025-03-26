@@ -1,9 +1,10 @@
-[
+{
+  "Sheet1": [
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20110596",
-      "Nama ": "Arief Rahman",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Arief Rahman",
+      "Position": "RM Consumer",
       "Main Branch": "MEDAN BALAIKOTA",
       "Login MTD": "10",
       "Login DTD": "Y",
@@ -12,13 +13,13 @@
       "AVG Call ": " 0.8 ",
       "AVG Visit": " 0.9 ",
       "Avg KPI YTD": "46.42%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220333",
-      "Nama ": "Anggi Anggraini Harahap",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Anggi Anggraini Harahap",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "MEDAN BALAIKOTA",
       "Login MTD": "4",
       "Login DTD": "N",
@@ -27,13 +28,13 @@
       "AVG Call ": " 0.2 ",
       "AVG Visit": " -   ",
       "Avg KPI YTD": "48.15%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220046",
-      "Nama ": "M Ziqhri Anhar Nasution",
-      "Posisi ": "RM Hajj & Umroh",
+      "Marketing Name": "M Ziqhri Anhar Nasution",
+      "Position": "RM Hajj & Umroh",
       "Main Branch": "MEDAN BALAIKOTA",
       "Login MTD": "13",
       "Login DTD": "Y",
@@ -42,13 +43,13 @@
       "AVG Call ": " 6.2 ",
       "AVG Visit": " 1.1 ",
       "Avg KPI YTD": "92.94%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20110795",
-      "Nama ": "M Arif Maulana",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "M Arif Maulana",
+      "Position": "RM Prioritas",
       "Main Branch": "MEDAN BALAIKOTA",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -57,13 +58,13 @@
       "AVG Call ": " 9.6 ",
       "AVG Visit": " 2.3 ",
       "Avg KPI YTD": "72.38%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20240305",
-      "Nama ": "Muhammad Suhaimi Nasution",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Muhammad Suhaimi Nasution",
+      "Position": "RM Prioritas",
       "Main Branch": "MEDAN BALAIKOTA",
       "Login MTD": "12",
       "Login DTD": "N",
@@ -72,13 +73,13 @@
       "AVG Call ": " 2.1 ",
       "AVG Visit": " 2.7 ",
       "Avg KPI YTD": "84.20%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20110786",
-      "Nama ": "Ridwan Harahap",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Ridwan Harahap",
+      "Position": "RM Consumer",
       "Main Branch": "PEKANBARU",
       "Login MTD": "8",
       "Login DTD": "N",
@@ -87,13 +88,13 @@
       "AVG Call ": " 0.2 ",
       "AVG Visit": " -   ",
       "Avg KPI YTD": "44.68%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220660",
-      "Nama ": "Yolanda Savira Rizaldi",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Yolanda Savira Rizaldi",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "PEKANBARU",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -102,13 +103,13 @@
       "AVG Call ": " 7.4 ",
       "AVG Visit": " 1.9 ",
       "Avg KPI YTD": "79.00%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20210349",
-      "Nama ": "Apri Wilnita",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Apri Wilnita",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "PEKANBARU",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -117,13 +118,13 @@
       "AVG Call ": " 10.6 ",
       "AVG Visit": " 2.2 ",
       "Avg KPI YTD": "46.53%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230542",
-      "Nama ": "Hary Anggara",
-      "Posisi ": "RM Hajj & Umroh",
+      "Marketing Name": "Hary Anggara",
+      "Position": "RM Hajj & Umroh",
       "Main Branch": "PEKANBARU",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -132,13 +133,13 @@
       "AVG Call ": " 11.4 ",
       "AVG Visit": " 2.9 ",
       "Avg KPI YTD": "61.44%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20120685",
-      "Nama ": "Selvi Fatmi Rofinda",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Selvi Fatmi Rofinda",
+      "Position": "RM Prioritas",
       "Main Branch": "PEKANBARU",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -147,13 +148,13 @@
       "AVG Call ": " 8.8 ",
       "AVG Visit": " 3.6 ",
       "Avg KPI YTD": "46.03%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20240201",
-      "Nama ": "Rudiana Oktana Supardani",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Rudiana Oktana Supardani",
+      "Position": "RM Consumer",
       "Main Branch": "PANGKAL PINANG",
       "Login MTD": "18",
       "Login DTD": "Y",
@@ -162,13 +163,13 @@
       "AVG Call ": " 0.7 ",
       "AVG Visit": " 1.4 ",
       "Avg KPI YTD": "41.56%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20121377",
-      "Nama ": "Ricci Putri Pratiwi",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Ricci Putri Pratiwi",
+      "Position": "RM Prioritas",
       "Main Branch": "PANGKAL PINANG",
       "Login MTD": "18",
       "Login DTD": "Y",
@@ -177,13 +178,13 @@
       "AVG Call ": " 1.8 ",
       "AVG Visit": " 3.2 ",
       "Avg KPI YTD": "73.13%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20150455",
-      "Nama ": "Aulia Ariffandi",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Aulia Ariffandi",
+      "Position": "RM Consumer",
       "Main Branch": "KCP SUKARAMAI",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -192,13 +193,13 @@
       "AVG Call ": " 0.6 ",
       "AVG Visit": " 1.2 ",
       "Avg KPI YTD": "23.38%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20121016",
-      "Nama ": "Intani Tiara Asmaulhusna",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Intani Tiara Asmaulhusna",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP SUKARAMAI",
       "Login MTD": "11",
       "Login DTD": "Y",
@@ -207,13 +208,13 @@
       "AVG Call ": " 3.8 ",
       "AVG Visit": " 1.0 ",
       "Avg KPI YTD": "42.00%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20130915",
-      "Nama ": "Suhardi",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Suhardi",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "BANDA ACEH",
       "Login MTD": "14",
       "Login DTD": "N",
@@ -222,13 +223,13 @@
       "AVG Call ": " 2.9 ",
       "AVG Visit": " 1.8 ",
       "Avg KPI YTD": "15.43%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20120909",
-      "Nama ": "Sayed Ilyas",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Sayed Ilyas",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "BANDA ACEH",
       "Login MTD": "13",
       "Login DTD": "Y",
@@ -237,13 +238,13 @@
       "AVG Call ": " 0.3 ",
       "AVG Visit": " 2.9 ",
       "Avg KPI YTD": "40.30%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20110532",
-      "Nama ": "Muazzin",
-      "Posisi ": "RM Hajj & Umroh",
+      "Marketing Name": "Muazzin",
+      "Position": "RM Hajj & Umroh",
       "Main Branch": "BANDA ACEH",
       "Login MTD": "16",
       "Login DTD": "Y",
@@ -252,13 +253,13 @@
       "AVG Call ": " 0.7 ",
       "AVG Visit": " 3.4 ",
       "Avg KPI YTD": "48.13%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20210155",
-      "Nama ": "Anggya Sophia Imannisa",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Anggya Sophia Imannisa",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP LHOKSEUMAWE",
       "Login MTD": "7",
       "Login DTD": "Y",
@@ -267,13 +268,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 0.1 ",
       "Avg KPI YTD": "60.94%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20170116",
-      "Nama ": "Junaidi",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Junaidi",
+      "Position": "RM Prioritas",
       "Main Branch": "KCP LHOKSEUMAWE",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -282,13 +283,13 @@
       "AVG Call ": " 0.1 ",
       "AVG Visit": " 6.8 ",
       "Avg KPI YTD": "28.14%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20120373",
-      "Nama ": "Yeni Aprilia",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Yeni Aprilia",
+      "Position": "RM Consumer",
       "Main Branch": "LAMPUNG",
       "Login MTD": "12",
       "Login DTD": "N",
@@ -297,13 +298,13 @@
       "AVG Call ": " 0.1 ",
       "AVG Visit": " 2.8 ",
       "Avg KPI YTD": "61.69%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20121178",
-      "Nama ": "Aprilia Rahmadani",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Aprilia Rahmadani",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "LAMPUNG",
       "Login MTD": "18",
       "Login DTD": "Y",
@@ -312,13 +313,13 @@
       "AVG Call ": " 9.3 ",
       "AVG Visit": " 1.8 ",
       "Avg KPI YTD": "50.20%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220678",
-      "Nama ": "Vikka Arumningrat",
-      "Posisi ": "RM Hajj & Umroh",
+      "Marketing Name": "Vikka Arumningrat",
+      "Position": "RM Hajj & Umroh",
       "Main Branch": "LAMPUNG",
       "Login MTD": "6",
       "Login DTD": "Y",
@@ -327,13 +328,13 @@
       "AVG Call ": " 0.8 ",
       "AVG Visit": " 1.9 ",
       "Avg KPI YTD": "90.79%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20110791",
-      "Nama ": "Budiman",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Budiman",
+      "Position": "RM Prioritas",
       "Main Branch": "LAMPUNG",
       "Login MTD": "18",
       "Login DTD": "Y",
@@ -342,13 +343,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 4.6 ",
       "Avg KPI YTD": "75.12%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20190017",
-      "Nama ": "Fadhil Awangpone",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Fadhil Awangpone",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP METRO LAMPUNG",
       "Login MTD": "13",
       "Login DTD": "N",
@@ -357,13 +358,13 @@
       "AVG Call ": " 0.2 ",
       "AVG Visit": " 2.1 ",
       "Avg KPI YTD": "70.88%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230303",
-      "Nama ": "Merry Silvianica",
-      "Posisi ": "RM Hajj & Umroh",
+      "Marketing Name": "Merry Silvianica",
+      "Position": "RM Hajj & Umroh",
       "Main Branch": "KCP METRO LAMPUNG",
       "Login MTD": "5",
       "Login DTD": "Y",
@@ -372,13 +373,13 @@
       "AVG Call ": " 0.2 ",
       "AVG Visit": " 0.9 ",
       "Avg KPI YTD": "49.23%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220555",
-      "Nama ": "Tomi Yuliza",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Tomi Yuliza",
+      "Position": "RM Consumer",
       "Main Branch": "PALEMBANG",
       "Login MTD": "17",
       "Login DTD": "Y",
@@ -387,13 +388,13 @@
       "AVG Call ": " 0.1 ",
       "AVG Visit": " 1.7 ",
       "Avg KPI YTD": "40.94%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220725",
-      "Nama ": "Nabillah Syafitri",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Nabillah Syafitri",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "PALEMBANG",
       "Login MTD": "9",
       "Login DTD": "N",
@@ -402,13 +403,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 1.2 ",
       "Avg KPI YTD": "71.07%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20120621",
-      "Nama ": "Siska Fitri Ayunda",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Siska Fitri Ayunda",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "PALEMBANG",
       "Login MTD": "17",
       "Login DTD": "N",
@@ -417,13 +418,13 @@
       "AVG Call ": " 6.8 ",
       "AVG Visit": " 2.4 ",
       "Avg KPI YTD": "28.38%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20100688",
-      "Nama ": "Agung Kridantoro",
-      "Posisi ": "RM Hajj & Umroh",
+      "Marketing Name": "Agung Kridantoro",
+      "Position": "RM Hajj & Umroh",
       "Main Branch": "PALEMBANG",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -432,13 +433,13 @@
       "AVG Call ": " 2.4 ",
       "AVG Visit": " 2.3 ",
       "Avg KPI YTD": "72.38%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20170674",
-      "Nama ": "Robiya",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Robiya",
+      "Position": "RM Prioritas",
       "Main Branch": "PALEMBANG",
       "Login MTD": "14",
       "Login DTD": "Y",
@@ -447,13 +448,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 2.5 ",
       "Avg KPI YTD": "76.21%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20240023",
-      "Nama ": "Yogi Firdiansyah",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Yogi Firdiansyah",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP SUNGAILIAT",
       "Login MTD": "7",
       "Login DTD": "N",
@@ -462,13 +463,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 0.3 ",
       "Avg KPI YTD": "38.67%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20090360",
-      "Nama ": "Rachmad Firmansyah",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Rachmad Firmansyah",
+      "Position": "RM Consumer",
       "Main Branch": "BATAM",
       "Login MTD": "15",
       "Login DTD": "Y",
@@ -477,13 +478,13 @@
       "AVG Call ": " 0.6 ",
       "AVG Visit": " 0.2 ",
       "Avg KPI YTD": "18.01%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220434",
-      "Nama ": "Tangguh Damar Ramadhan",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Tangguh Damar Ramadhan",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "BATAM",
       "Login MTD": "10",
       "Login DTD": "N",
@@ -492,13 +493,13 @@
       "AVG Call ": " 0.3 ",
       "AVG Visit": " 0.4 ",
       "Avg KPI YTD": "82.99%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20210460",
-      "Nama ": "Elda Reyhan",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Elda Reyhan",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "BATAM",
       "Login MTD": "3",
       "Login DTD": "N",
@@ -507,13 +508,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " -   ",
       "Avg KPI YTD": "26.16%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20100270",
-      "Nama ": "Sri Novilda",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Sri Novilda",
+      "Position": "RM Prioritas",
       "Main Branch": "BATAM",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -522,13 +523,13 @@
       "AVG Call ": " 9.2 ",
       "AVG Visit": " 2.4 ",
       "Avg KPI YTD": "13.58%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20170224",
-      "Nama ": "Fahruzi Alfani",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Fahruzi Alfani",
+      "Position": "RM Consumer",
       "Main Branch": "PADANG",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -537,13 +538,13 @@
       "AVG Call ": " 4.7 ",
       "AVG Visit": " 2.2 ",
       "Avg KPI YTD": "53.29%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20110273",
-      "Nama ": "Dodis Baikal",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Dodis Baikal",
+      "Position": "RM Consumer",
       "Main Branch": "PADANG",
       "Login MTD": "18",
       "Login DTD": "N",
@@ -552,13 +553,13 @@
       "AVG Call ": " 5.8 ",
       "AVG Visit": " 2.3 ",
       "Avg KPI YTD": "51.28%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20100063",
-      "Nama ": "Evi Rozana",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Evi Rozana",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "PADANG",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -567,13 +568,13 @@
       "AVG Call ": " 6.1 ",
       "AVG Visit": " 2.7 ",
       "Avg KPI YTD": "58.84%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20170727",
-      "Nama ": "Lan Lan Awaludin",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Lan Lan Awaludin",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "PADANG",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -582,13 +583,13 @@
       "AVG Call ": " 5.8 ",
       "AVG Visit": " 2.3 ",
       "Avg KPI YTD": "70.65%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20170931",
-      "Nama ": "Rosa Hidayah",
-      "Posisi ": "RM Hajj & Umroh",
+      "Marketing Name": "Rosa Hidayah",
+      "Position": "RM Hajj & Umroh",
       "Main Branch": "PADANG",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -597,13 +598,13 @@
       "AVG Call ": " 5.3 ",
       "AVG Visit": " 2.8 ",
       "Avg KPI YTD": "61.23%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20050099",
-      "Nama ": "Vionna Aprillia",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Vionna Aprillia",
+      "Position": "RM Prioritas",
       "Main Branch": "PADANG",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -612,13 +613,13 @@
       "AVG Call ": " 6.4 ",
       "AVG Visit": " 3.6 ",
       "Avg KPI YTD": "37.23%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20140792",
-      "Nama ": "Nadia Utika Putri",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Nadia Utika Putri",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP BUKITTINGGI",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -627,13 +628,13 @@
       "AVG Call ": " 0.2 ",
       "AVG Visit": " 2.1 ",
       "Avg KPI YTD": "89.04%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20100383",
-      "Nama ": "Hendra Putra",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Hendra Putra",
+      "Position": "RM Consumer",
       "Main Branch": "KCP PAYAKUMBUH",
       "Login MTD": "18",
       "Login DTD": "Y",
@@ -642,13 +643,13 @@
       "AVG Call ": " 0.3 ",
       "AVG Visit": " 2.2 ",
       "Avg KPI YTD": "68.22%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20070085",
-      "Nama ": "Riza Yumeri",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Riza Yumeri",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP PAYAKUMBUH",
       "Login MTD": "8",
       "Login DTD": "Y",
@@ -657,13 +658,13 @@
       "AVG Call ": " 0.1 ",
       "AVG Visit": " 0.9 ",
       "Avg KPI YTD": "96.10%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20030071",
-      "Nama ": "Dian Novera",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Dian Novera",
+      "Position": "RM Consumer",
       "Main Branch": "BENGKULU",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -672,13 +673,13 @@
       "AVG Call ": " 2.1 ",
       "AVG Visit": " 2.6 ",
       "Avg KPI YTD": "51.75%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20210283",
-      "Nama ": "Rieke Ayu Oktriani",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Rieke Ayu Oktriani",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "BENGKULU",
       "Login MTD": "5",
       "Login DTD": "N",
@@ -687,13 +688,13 @@
       "AVG Call ": " 0.8 ",
       "AVG Visit": " 0.6 ",
       "Avg KPI YTD": "35.63%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20100184",
-      "Nama ": "Dadang Muhamad Soleh",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Dadang Muhamad Soleh",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "BENGKULU",
       "Login MTD": "16",
       "Login DTD": "Y",
@@ -702,13 +703,13 @@
       "AVG Call ": " 11.3 ",
       "AVG Visit": " 4.9 ",
       "Avg KPI YTD": "45.79%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20130582",
-      "Nama ": "Septri Utami",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Septri Utami",
+      "Position": "RM Prioritas",
       "Main Branch": "BENGKULU",
       "Login MTD": "15",
       "Login DTD": "Y",
@@ -717,13 +718,13 @@
       "AVG Call ": " 0.1 ",
       "AVG Visit": " 2.4 ",
       "Avg KPI YTD": "92.89%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20180564",
-      "Nama ": "Dittia Rahma",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Dittia Rahma",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "JAMBI",
       "Login MTD": "17",
       "Login DTD": "Y",
@@ -732,13 +733,13 @@
       "AVG Call ": " 10.7 ",
       "AVG Visit": " 2.2 ",
       "Avg KPI YTD": "60.66%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20100161",
-      "Nama ": "T. Heni Handayani",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "T. Heni Handayani",
+      "Position": "RM Consumer",
       "Main Branch": "TANJUNG PINANG",
       "Login MTD": "15",
       "Login DTD": "Y",
@@ -747,13 +748,13 @@
       "AVG Call ": " 5.7 ",
       "AVG Visit": " 4.3 ",
       "Avg KPI YTD": "20.57%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20050146",
-      "Nama ": "Anisma",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Anisma",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "TANJUNG PINANG",
       "Login MTD": "16",
       "Login DTD": "Y",
@@ -762,13 +763,13 @@
       "AVG Call ": " 6.4 ",
       "AVG Visit": " 3.4 ",
       "Avg KPI YTD": "45.23%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20121047",
-      "Nama ": "Saylvia Merrcy",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Saylvia Merrcy",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "TANJUNG PINANG",
       "Login MTD": "15",
       "Login DTD": "N",
@@ -777,13 +778,13 @@
       "AVG Call ": " 5.1 ",
       "AVG Visit": " 0.7 ",
       "Avg KPI YTD": "32.73%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230351",
-      "Nama ": "Helsa Fakhira Kusnadi",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Helsa Fakhira Kusnadi",
+      "Position": "RM Consumer",
       "Main Branch": "MEDAN BARU",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -792,13 +793,13 @@
       "AVG Call ": " 0.7 ",
       "AVG Visit": " 1.9 ",
       "Avg KPI YTD": "50.44%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20140677",
-      "Nama ": "Al Adly Adriansyah Pp",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Al Adly Adriansyah Pp",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "MEDAN BARU",
       "Login MTD": "8",
       "Login DTD": "Y",
@@ -807,13 +808,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 1.5 ",
       "Avg KPI YTD": "115.61%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20190003",
-      "Nama ": "Ade Haslila Sari",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Ade Haslila Sari",
+      "Position": "RM Prioritas",
       "Main Branch": "MEDAN BARU",
       "Login MTD": "15",
       "Login DTD": "N",
@@ -822,13 +823,13 @@
       "AVG Call ": " 0.3 ",
       "AVG Visit": " 3.0 ",
       "Avg KPI YTD": "51.45%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230306",
-      "Nama ": "Adeliza Meisy",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Adeliza Meisy",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP KAMPAR",
       "Login MTD": "9",
       "Login DTD": "N",
@@ -837,13 +838,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 1.7 ",
       "Avg KPI YTD": "110.76%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220713",
-      "Nama ": "Sapitri",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Sapitri",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP SERDANG",
       "Login MTD": "15",
       "Login DTD": "Y",
@@ -852,13 +853,13 @@
       "AVG Call ": " 4.8 ",
       "AVG Visit": " -   ",
       "Avg KPI YTD": "79.38%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20210188",
-      "Nama ": "Amelia Suriani Lase",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Amelia Suriani Lase",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "PADANG SIDEMPUAN",
       "Login MTD": "16",
       "Login DTD": "Y",
@@ -867,13 +868,13 @@
       "AVG Call ": " 0.3 ",
       "AVG Visit": " 2.7 ",
       "Avg KPI YTD": "47.09%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20110019",
-      "Nama ": "Rini Agustina",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Rini Agustina",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "PADANG SIDEMPUAN",
       "Login MTD": "18",
       "Login DTD": "Y",
@@ -882,13 +883,13 @@
       "AVG Call ": " 0.5 ",
       "AVG Visit": " 0.4 ",
       "Avg KPI YTD": "61.35%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20140608",
-      "Nama ": "Asely Munawaroh",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Asely Munawaroh",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP PANYABUNGAN",
       "Login MTD": "17",
       "Login DTD": "Y",
@@ -897,13 +898,13 @@
       "AVG Call ": " 0.7 ",
       "AVG Visit": " 3.6 ",
       "Avg KPI YTD": "85.31%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20210129",
-      "Nama ": "Angga Yudistira Pane",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Angga Yudistira Pane",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "PEMATANG SIANTAR",
       "Login MTD": "2",
       "Login DTD": "N",
@@ -912,13 +913,13 @@
       "AVG Call ": " 0.5 ",
       "AVG Visit": " 0.2 ",
       "Avg KPI YTD": "23.86%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20140194",
-      "Nama ": "Rika Rehmintha",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Rika Rehmintha",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP KISARAN",
       "Login MTD": "16",
       "Login DTD": "Y",
@@ -927,13 +928,13 @@
       "AVG Call ": " 1.4 ",
       "AVG Visit": " 1.9 ",
       "Avg KPI YTD": "38.74%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20200204",
-      "Nama ": "Siska Yulianti",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Siska Yulianti",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "LANGSA",
       "Login MTD": "12",
       "Login DTD": "N",
@@ -942,13 +943,13 @@
       "AVG Call ": " 2.2 ",
       "AVG Visit": " 0.7 ",
       "Avg KPI YTD": "33.38%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220737",
-      "Nama ": "Wisnu Cahya Subrata",
-      "Posisi ": "RM Hajj & Umroh",
+      "Marketing Name": "Wisnu Cahya Subrata",
+      "Position": "RM Hajj & Umroh",
       "Main Branch": "KCP BANDAR JAYA",
       "Login MTD": "8",
       "Login DTD": "N",
@@ -957,13 +958,13 @@
       "AVG Call ": " 0.2 ",
       "AVG Visit": " 0.8 ",
       "Avg KPI YTD": "89.23%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20170376",
-      "Nama ": "Rachmah Cahaya Rizky",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Rachmah Cahaya Rizky",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP ZA PAGAR ALAM LAMPUNG",
       "Login MTD": "15",
       "Login DTD": "Y",
@@ -972,13 +973,13 @@
       "AVG Call ": " 3.1 ",
       "AVG Visit": " 2.2 ",
       "Avg KPI YTD": "65.93%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20190333",
-      "Nama ": "Mutiara Karvina Islamy",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Mutiara Karvina Islamy",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP KOTABUMI LAMPUNG",
       "Login MTD": "10",
       "Login DTD": "Y",
@@ -987,13 +988,13 @@
       "AVG Call ": " 3.6 ",
       "AVG Visit": " 3.7 ",
       "Avg KPI YTD": "67.40%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220401",
-      "Nama ": "Devi Arvina",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Devi Arvina",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP ANTASARI LAMPUNG",
       "Login MTD": "18",
       "Login DTD": "Y",
@@ -1002,13 +1003,13 @@
       "AVG Call ": " 0.3 ",
       "AVG Visit": " 0.9 ",
       "Avg KPI YTD": "55.28%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230520",
-      "Nama ": "Muhammad Toyib",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Muhammad Toyib",
+      "Position": "RM Consumer",
       "Main Branch": "KCP PLAJU",
       "Login MTD": "13",
       "Login DTD": "N",
@@ -1017,13 +1018,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 0.6 ",
       "Avg KPI YTD": "50.57%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20120337",
-      "Nama ": "Vina Carolina",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Vina Carolina",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP PLAJU",
       "Login MTD": "18",
       "Login DTD": "Y",
@@ -1032,13 +1033,13 @@
       "AVG Call ": " 0.5 ",
       "AVG Visit": " 2.7 ",
       "Avg KPI YTD": "67.24%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20210121",
-      "Nama ": "Adelia Sundari",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Adelia Sundari",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP TANJUNG PANDAN",
       "Login MTD": "3",
       "Login DTD": "N",
@@ -1047,13 +1048,13 @@
       "AVG Call ": " 0.4 ",
       "AVG Visit": " 0.2 ",
       "Avg KPI YTD": "36.81%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220522",
-      "Nama ": "Krisna Tri Nugraha",
-      "Posisi ": "RM Hajj & Umroh",
+      "Marketing Name": "Krisna Tri Nugraha",
+      "Position": "RM Hajj & Umroh",
       "Main Branch": "KCP BATURAJA",
       "Login MTD": "11",
       "Login DTD": "N",
@@ -1062,13 +1063,13 @@
       "AVG Call ": " 3.2 ",
       "AVG Visit": " 1.5 ",
       "Avg KPI YTD": "75.25%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20190049",
-      "Nama ": "Iindra Gunawan",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Iindra Gunawan",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP ENIM",
       "Login MTD": "14",
       "Login DTD": "Y",
@@ -1077,13 +1078,13 @@
       "AVG Call ": " 1.8 ",
       "AVG Visit": " 2.8 ",
       "Avg KPI YTD": "41.04%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20060078",
-      "Nama ": "Arhadi Putra",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Arhadi Putra",
+      "Position": "RM Consumer",
       "Main Branch": "KCP SOLOK",
       "Login MTD": "17",
       "Login DTD": "Y",
@@ -1092,13 +1093,13 @@
       "AVG Call ": " 3.8 ",
       "AVG Visit": " 2.5 ",
       "Avg KPI YTD": "28.12%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20140796",
-      "Nama ": "Lusio Eka Fitri",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Lusio Eka Fitri",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP SOLOK",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -1107,13 +1108,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 3.6 ",
       "Avg KPI YTD": "49.20%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20140299",
-      "Nama ": "Diah Permatasari",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Diah Permatasari",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP CURUP",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -1122,13 +1123,13 @@
       "AVG Call ": " 5.5 ",
       "AVG Visit": " 2.5 ",
       "Avg KPI YTD": "89.20%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20120730",
-      "Nama ": "Fany Sastiya Putri",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Fany Sastiya Putri",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP STABAT",
       "Login MTD": "3",
       "Login DTD": "N",
@@ -1137,13 +1138,13 @@
       "AVG Call ": " 0.7 ",
       "AVG Visit": " 0.7 ",
       "Avg KPI YTD": "22.35%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20120924",
-      "Nama ": "Ramang Febriatmaja",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Ramang Febriatmaja",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP MANNA BENGKULU",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -1152,13 +1153,13 @@
       "AVG Call ": " 4.9 ",
       "AVG Visit": " 4.6 ",
       "Avg KPI YTD": "58.52%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220354",
-      "Nama ": "Violani Piranti",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Violani Piranti",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP ARGA MAKMUR",
       "Login MTD": "15",
       "Login DTD": "N",
@@ -1167,13 +1168,13 @@
       "AVG Call ": " 3.3 ",
       "AVG Visit": " 2.7 ",
       "Avg KPI YTD": "81.30%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220258",
-      "Nama ": "Putri Septiani",
-      "Posisi ": "RM Hajj & Funding",
+      "Marketing Name": "Putri Septiani",
+      "Position": "RM Hajj & Funding",
       "Main Branch": "KCP KOBA",
       "Login MTD": "12",
       "Login DTD": "Y",
@@ -1182,13 +1183,13 @@
       "AVG Call ": " 2.4 ",
       "AVG Visit": " 2.3 ",
       "Avg KPI YTD": "98.28%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20210144",
-      "Nama ": "Dimas Tri Soufi",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Dimas Tri Soufi",
+      "Position": "CS Reguler",
       "Main Branch": "MEDAN BALAIKOTA",
       "Login MTD": "10",
       "Login DTD": "N",
@@ -1199,10 +1200,10 @@
       "Avg KPI YTD": "73.68%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220154",
-      "Nama ": "Muhammad Fahri Siregar",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Muhammad Fahri Siregar",
+      "Position": "CS Reguler",
       "Main Branch": "MEDAN BALAIKOTA",
       "Login MTD": "13",
       "Login DTD": "Y",
@@ -1213,10 +1214,10 @@
       "Avg KPI YTD": "0.00%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20240254",
-      "Nama ": "Wahyu Abdi",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Wahyu Abdi",
+      "Position": "CS Reguler",
       "Main Branch": "PEKANBARU",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -1227,10 +1228,10 @@
       "Avg KPI YTD": "77.86%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230310",
-      "Nama ": "Hamidah Siffa Garishah",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Hamidah Siffa Garishah",
+      "Position": "CS Reguler",
       "Main Branch": "PANGKAL PINANG",
       "Login MTD": "16",
       "Login DTD": "N",
@@ -1241,10 +1242,10 @@
       "Avg KPI YTD": "105.63%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20240065",
-      "Nama ": "Melisa Nurmaulina",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Melisa Nurmaulina",
+      "Position": "CS Reguler",
       "Main Branch": "PANGKAL PINANG",
       "Login MTD": "8",
       "Login DTD": "N",
@@ -1255,10 +1256,10 @@
       "Avg KPI YTD": "114.60%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230572",
-      "Nama ": "Muhammad Wahyu Afdika",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Muhammad Wahyu Afdika",
+      "Position": "CS Reguler",
       "Main Branch": "KCP SUKARAMAI",
       "Login MTD": "3",
       "Login DTD": "N",
@@ -1269,10 +1270,10 @@
       "Avg KPI YTD": "83.46%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220158",
-      "Nama ": "Yunda Sufni",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Yunda Sufni",
+      "Position": "CS Reguler",
       "Main Branch": "BANDA ACEH",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -1283,10 +1284,10 @@
       "Avg KPI YTD": "69.90%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230090",
-      "Nama ": "T. Ilham Khaliq",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "T. Ilham Khaliq",
+      "Position": "CS Reguler",
       "Main Branch": "BANDA ACEH",
       "Login MTD": "1",
       "Login DTD": "N",
@@ -1297,10 +1298,10 @@
       "Avg KPI YTD": "80.55%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220108",
-      "Nama ": "Muhammad Ilham Lapara",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Muhammad Ilham Lapara",
+      "Position": "CS Reguler",
       "Main Branch": "KCP LHOKSEUMAWE",
       "Login MTD": "6",
       "Login DTD": "N",
@@ -1311,10 +1312,10 @@
       "Avg KPI YTD": "93.86%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230030",
-      "Nama ": "Hami Rantina",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Hami Rantina",
+      "Position": "CS Reguler",
       "Main Branch": "LAMPUNG",
       "Login MTD": "2",
       "Login DTD": "N",
@@ -1325,10 +1326,10 @@
       "Avg KPI YTD": "71.86%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230390",
-      "Nama ": "Galang Syahputra",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Galang Syahputra",
+      "Position": "CS Reguler",
       "Main Branch": "LAMPUNG",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -1339,10 +1340,10 @@
       "Avg KPI YTD": "64.72%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230086",
-      "Nama ": "Hendri Prayoga",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Hendri Prayoga",
+      "Position": "CS Reguler",
       "Main Branch": "KCP METRO LAMPUNG",
       "Login MTD": "3",
       "Login DTD": "N",
@@ -1353,10 +1354,10 @@
       "Avg KPI YTD": "92.24%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230391",
-      "Nama ": "Gita Tri Utami",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Gita Tri Utami",
+      "Position": "CS Reguler",
       "Main Branch": "PALEMBANG",
       "Login MTD": "9",
       "Login DTD": "N",
@@ -1367,10 +1368,10 @@
       "Avg KPI YTD": "98.38%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230360",
-      "Nama ": "Silpita Maras Tika",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Silpita Maras Tika",
+      "Position": "CS Reguler",
       "Main Branch": "KCP SUNGAILIAT",
       "Login MTD": "14",
       "Login DTD": "N",
@@ -1381,10 +1382,10 @@
       "Avg KPI YTD": "104.17%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20240410",
-      "Nama ": "EKA INDAH SUPRAPTI NINGSIH",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "EKA INDAH SUPRAPTI NINGSIH",
+      "Position": "CS Reguler",
       "Main Branch": "BATAM",
       "Login MTD": "2",
       "Login DTD": "N",
@@ -1395,10 +1396,10 @@
       "Avg KPI YTD": "0.00%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20110436",
-      "Nama ": "Debby Narita",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Debby Narita",
+      "Position": "CS Reguler",
       "Main Branch": "PADANG",
       "Login MTD": "16",
       "Login DTD": "N",
@@ -1409,10 +1410,10 @@
       "Avg KPI YTD": "96.08%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20240298",
-      "Nama ": "Hesty Yuliana Putri",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Hesty Yuliana Putri",
+      "Position": "CS Reguler",
       "Main Branch": "KCP BUKITTINGGI",
       "Login MTD": "6",
       "Login DTD": "N",
@@ -1423,10 +1424,10 @@
       "Avg KPI YTD": "74.03%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230431",
-      "Nama ": "Muftiathul Huda",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Muftiathul Huda",
+      "Position": "CS Reguler",
       "Main Branch": "KCP PAYAKUMBUH",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -1437,10 +1438,10 @@
       "Avg KPI YTD": "84.41%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220485",
-      "Nama ": "Mahmud Pralianto",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Mahmud Pralianto",
+      "Position": "CS Reguler",
       "Main Branch": "BENGKULU",
       "Login MTD": "16",
       "Login DTD": "N",
@@ -1451,10 +1452,10 @@
       "Avg KPI YTD": "83.24%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20121880",
-      "Nama ": "Novita Sari",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Novita Sari",
+      "Position": "CS Reguler",
       "Main Branch": "BENGKULU",
       "Login MTD": "18",
       "Login DTD": "Y",
@@ -1465,10 +1466,10 @@
       "Avg KPI YTD": ""
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20240257",
-      "Nama ": "Alif Nur Rohman",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Alif Nur Rohman",
+      "Position": "CS Reguler",
       "Main Branch": "JAMBI",
       "Login MTD": "17",
       "Login DTD": "Y",
@@ -1479,10 +1480,10 @@
       "Avg KPI YTD": "77.52%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20130158",
-      "Nama ": "Hadrian Aris",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Hadrian Aris",
+      "Position": "CS Reguler",
       "Main Branch": "TANJUNG PINANG",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -1493,10 +1494,10 @@
       "Avg KPI YTD": "72.72%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230130",
-      "Nama ": "Feby Aulya Wardani",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Feby Aulya Wardani",
+      "Position": "CS Reguler",
       "Main Branch": "MEDAN BARU",
       "Login MTD": "9",
       "Login DTD": "Y",
@@ -1507,10 +1508,10 @@
       "Avg KPI YTD": "68.75%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230526",
-      "Nama ": "Halwa Salsabila Tandra",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Halwa Salsabila Tandra",
+      "Position": "CS Reguler",
       "Main Branch": "MEDAN BARU",
       "Login MTD": "7",
       "Login DTD": "N",
@@ -1521,10 +1522,10 @@
       "Avg KPI YTD": "68.06%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230131",
-      "Nama ": "Wiki Lia Rahmadani",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Wiki Lia Rahmadani",
+      "Position": "CS Reguler",
       "Main Branch": "KCP BINJAI",
       "Login MTD": "12",
       "Login DTD": "Y",
@@ -1535,10 +1536,10 @@
       "Avg KPI YTD": "97.38%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20210033",
-      "Nama ": "Winda Lestari",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Winda Lestari",
+      "Position": "CS Reguler",
       "Main Branch": "PADANG SIDEMPUAN",
       "Login MTD": "10",
       "Login DTD": "N",
@@ -1549,10 +1550,10 @@
       "Avg KPI YTD": "91.26%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20240377",
-      "Nama ": "Imelda Suciadewi\r\n",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Imelda Suciadewi\r\n",
+      "Position": "CS Reguler",
       "Main Branch": "KCP PANYABUNGAN",
       "Login MTD": "17",
       "Login DTD": "N",
@@ -1563,10 +1564,10 @@
       "Avg KPI YTD": "0.00%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20240314",
-      "Nama ": "AULIA FADILLAH YUSRI",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "AULIA FADILLAH YUSRI",
+      "Position": "CS Reguler",
       "Main Branch": "PEMATANG SIANTAR",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -1577,10 +1578,10 @@
       "Avg KPI YTD": "0.00%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220650",
-      "Nama ": "Liza Nattasya M",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Liza Nattasya M",
+      "Position": "CS Reguler",
       "Main Branch": "KCP KISARAN",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -1591,10 +1592,10 @@
       "Avg KPI YTD": "86.91%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230614",
-      "Nama ": "Septia Mulia Hadana",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Septia Mulia Hadana",
+      "Position": "CS Reguler",
       "Main Branch": "LANGSA",
       "Login MTD": "12",
       "Login DTD": "Y",
@@ -1605,10 +1606,10 @@
       "Avg KPI YTD": "81.65%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220322",
-      "Nama ": "Abdul Syaib H",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Abdul Syaib H",
+      "Position": "CS Reguler",
       "Main Branch": "KCP BANDAR JAYA",
       "Login MTD": "6",
       "Login DTD": "Y",
@@ -1619,10 +1620,10 @@
       "Avg KPI YTD": "96.00%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220095",
-      "Nama ": "Dhani Murthado",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Dhani Murthado",
+      "Position": "CS Reguler",
       "Main Branch": "KCP ZA PAGAR ALAM LAMPUNG",
       "Login MTD": "16",
       "Login DTD": "Y",
@@ -1633,10 +1634,10 @@
       "Avg KPI YTD": "85.22%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20200213",
-      "Nama ": "Viki Muhammad Sukron",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Viki Muhammad Sukron",
+      "Position": "CS Reguler",
       "Main Branch": "KCP KOTABUMI LAMPUNG",
       "Login MTD": "11",
       "Login DTD": "N",
@@ -1647,10 +1648,10 @@
       "Avg KPI YTD": "114.86%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20240102",
-      "Nama ": "Syanila Indah Mawadani",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Syanila Indah Mawadani",
+      "Position": "CS Reguler",
       "Main Branch": "KCP ANTASARI LAMPUNG",
       "Login MTD": "12",
       "Login DTD": "N",
@@ -1661,10 +1662,10 @@
       "Avg KPI YTD": "92.68%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20210165",
-      "Nama ": "Zanariah",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Zanariah",
+      "Position": "CS Reguler",
       "Main Branch": "KCP PLAJU",
       "Login MTD": "18",
       "Login DTD": "Y",
@@ -1675,10 +1676,10 @@
       "Avg KPI YTD": "70.22%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230372",
-      "Nama ": "Nisa Pratami",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Nisa Pratami",
+      "Position": "CS Reguler",
       "Main Branch": "KCP TANJUNG PANDAN",
       "Login MTD": "13",
       "Login DTD": "Y",
@@ -1689,10 +1690,10 @@
       "Avg KPI YTD": "79.96%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230076",
-      "Nama ": "Firsta Adela",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Firsta Adela",
+      "Position": "CS Reguler",
       "Main Branch": "KCP BATURAJA",
       "Login MTD": "11",
       "Login DTD": "Y",
@@ -1703,10 +1704,10 @@
       "Avg KPI YTD": "80.10%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230270",
-      "Nama ": "Ayu Nidia",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Ayu Nidia",
+      "Position": "CS Reguler",
       "Main Branch": "KCP ENIM",
       "Login MTD": "8",
       "Login DTD": "N",
@@ -1717,10 +1718,10 @@
       "Avg KPI YTD": "73.82%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230256",
-      "Nama ": "Inayah",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Inayah",
+      "Position": "CS Reguler",
       "Main Branch": "KCP SOLOK",
       "Login MTD": "13",
       "Login DTD": "N",
@@ -1731,10 +1732,10 @@
       "Avg KPI YTD": "79.12%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20130115",
-      "Nama ": "Destia Gita",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Destia Gita",
+      "Position": "CS Reguler",
       "Main Branch": "KCP CURUP",
       "Login MTD": "13",
       "Login DTD": "N",
@@ -1745,10 +1746,10 @@
       "Avg KPI YTD": "112.11%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230574",
-      "Nama ": "Anggreini Larasati Subarno",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Anggreini Larasati Subarno",
+      "Position": "CS Reguler",
       "Main Branch": "KCP MUARA BUNGO",
       "Login MTD": "13",
       "Login DTD": "Y",
@@ -1759,10 +1760,10 @@
       "Avg KPI YTD": "100.82%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20230408",
-      "Nama ": "Aldha Rianza Putri",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Aldha Rianza Putri",
+      "Position": "CS Reguler",
       "Main Branch": "KCP STABAT",
       "Login MTD": "1",
       "Login DTD": "N",
@@ -1773,10 +1774,10 @@
       "Avg KPI YTD": "85.65%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220306",
-      "Nama ": "Ika Nurfatimah",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Ika Nurfatimah",
+      "Position": "CS Reguler",
       "Main Branch": "KCP MANNA BENGKULU",
       "Login MTD": "18",
       "Login DTD": "Y",
@@ -1787,10 +1788,10 @@
       "Avg KPI YTD": "78.38%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220040",
-      "Nama ": "Endang Setio Rini",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Endang Setio Rini",
+      "Position": "CS Reguler",
       "Main Branch": "KCP ARGA MAKMUR",
       "Login MTD": "5",
       "Login DTD": "N",
@@ -1801,10 +1802,10 @@
       "Avg KPI YTD": "84.11%"
     },
     {
-      "Periode": "31 Jan 2025",
+      "Period": "31 Jan 2025",
       "NIK": "20220167",
-      "Nama ": "Morin Oktavia",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Morin Oktavia",
+      "Position": "CS Reguler",
       "Main Branch": "KCP KOBA",
       "Login MTD": "17",
       "Login DTD": "Y",
@@ -1815,10 +1816,10 @@
       "Avg KPI YTD": "99.45%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20110596",
-      "Nama ": "Arief Rahman",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Arief Rahman",
+      "Position": "RM Consumer",
       "Main Branch": "MEDAN BALAIKOTA",
       "Login MTD": "15",
       "Login DTD": "N",
@@ -1827,13 +1828,13 @@
       "AVG Call ": " 1.1 ",
       "AVG Visit": " 1.3 ",
       "Avg KPI YTD": "46.42%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220046",
-      "Nama ": "M Ziqhri Anhar Nasution",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "M Ziqhri Anhar Nasution",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "MEDAN BALAIKOTA",
       "Login MTD": "10",
       "Login DTD": "Y",
@@ -1842,13 +1843,13 @@
       "AVG Call ": " 1.1 ",
       "AVG Visit": " 0.3 ",
       "Avg KPI YTD": "92.94%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20110795",
-      "Nama ": "M Arif Maulana",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "M Arif Maulana",
+      "Position": "RM Prioritas",
       "Main Branch": "MEDAN BALAIKOTA",
       "Login MTD": "18",
       "Login DTD": "Y",
@@ -1857,13 +1858,13 @@
       "AVG Call ": " 10.4 ",
       "AVG Visit": " 2.5 ",
       "Avg KPI YTD": "72.38%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20240305",
-      "Nama ": "Muhammad Suhaimi Nasution",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Muhammad Suhaimi Nasution",
+      "Position": "RM Prioritas",
       "Main Branch": "MEDAN BALAIKOTA",
       "Login MTD": "18",
       "Login DTD": "N",
@@ -1872,13 +1873,13 @@
       "AVG Call ": " 3.6 ",
       "AVG Visit": " 3.3 ",
       "Avg KPI YTD": "84.20%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20150455",
-      "Nama ": "Aulia Ariffandi",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Aulia Ariffandi",
+      "Position": "RM Consumer",
       "Main Branch": "KCP SUKARAMAI",
       "Login MTD": "20",
       "Login DTD": "Y",
@@ -1887,13 +1888,13 @@
       "AVG Call ": " 1.8 ",
       "AVG Visit": " 0.7 ",
       "Avg KPI YTD": "23.38%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20121016",
-      "Nama ": "Intani Tiara Asmaulhusna",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Intani Tiara Asmaulhusna",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP SUKARAMAI",
       "Login MTD": "14",
       "Login DTD": "N",
@@ -1902,13 +1903,13 @@
       "AVG Call ": " 5.7 ",
       "AVG Visit": " 0.6 ",
       "Avg KPI YTD": "42.00%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220713",
-      "Nama ": "Sapitri",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Sapitri",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP SERDANG",
       "Login MTD": "18",
       "Login DTD": "Y",
@@ -1917,13 +1918,13 @@
       "AVG Call ": " 5.7 ",
       "AVG Visit": " 0.5 ",
       "Avg KPI YTD": "79.38%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20210188",
-      "Nama ": "Amelia Suriani Lase",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Amelia Suriani Lase",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "PADANG SIDEMPUAN",
       "Login MTD": "10",
       "Login DTD": "Y",
@@ -1932,13 +1933,13 @@
       "AVG Call ": " 0.5 ",
       "AVG Visit": " 2.5 ",
       "Avg KPI YTD": "47.09%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20110019",
-      "Nama ": "Rini Agustina",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Rini Agustina",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "PADANG SIDEMPUAN",
       "Login MTD": "20",
       "Login DTD": "Y",
@@ -1947,13 +1948,13 @@
       "AVG Call ": " 0.2 ",
       "AVG Visit": " 2.2 ",
       "Avg KPI YTD": "61.35%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20140608",
-      "Nama ": "Asely Munawaroh",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Asely Munawaroh",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP PANYABUNGAN",
       "Login MTD": "20",
       "Login DTD": "Y",
@@ -1962,13 +1963,13 @@
       "AVG Call ": " 1.6 ",
       "AVG Visit": " 3.8 ",
       "Avg KPI YTD": "85.31%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230542",
-      "Nama ": "Hary Anggara",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Hary Anggara",
+      "Position": "RM Consumer",
       "Main Branch": "PEKANBARU",
       "Login MTD": "12",
       "Login DTD": "Y",
@@ -1977,13 +1978,13 @@
       "AVG Call ": " 8.2 ",
       "AVG Visit": " 3.3 ",
       "Avg KPI YTD": "61.44%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220660",
-      "Nama ": "Yolanda Savira Rizaldi",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Yolanda Savira Rizaldi",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "PEKANBARU",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -1992,13 +1993,13 @@
       "AVG Call ": " 7.8 ",
       "AVG Visit": " 2.2 ",
       "Avg KPI YTD": "79.00%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20210349",
-      "Nama ": "Apri Wilnita",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Apri Wilnita",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "PEKANBARU",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -2007,13 +2008,13 @@
       "AVG Call ": " 11.5 ",
       "AVG Visit": " 3.0 ",
       "Avg KPI YTD": "46.53%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20120685",
-      "Nama ": "Selvi Fatmi Rofinda",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Selvi Fatmi Rofinda",
+      "Position": "RM Prioritas",
       "Main Branch": "PEKANBARU",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -2022,13 +2023,13 @@
       "AVG Call ": " 6.5 ",
       "AVG Visit": " 3.0 ",
       "Avg KPI YTD": "46.03%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230306",
-      "Nama ": "Adeliza Meisy",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Adeliza Meisy",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP KAMPAR",
       "Login MTD": "15",
       "Login DTD": "Y",
@@ -2037,13 +2038,13 @@
       "AVG Call ": " 0.8 ",
       "AVG Visit": " 3.3 ",
       "Avg KPI YTD": "110.76%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20090360",
-      "Nama ": "Rachmad Firmansyah",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Rachmad Firmansyah",
+      "Position": "RM Consumer",
       "Main Branch": "BATAM",
       "Login MTD": "12",
       "Login DTD": "Y",
@@ -2052,13 +2053,13 @@
       "AVG Call ": " 0.6 ",
       "AVG Visit": " 0.1 ",
       "Avg KPI YTD": "18.01%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220434",
-      "Nama ": "Tangguh Damar Ramadhan",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Tangguh Damar Ramadhan",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "BATAM",
       "Login MTD": "9",
       "Login DTD": "Y",
@@ -2067,13 +2068,13 @@
       "AVG Call ": " 1.3 ",
       "AVG Visit": " 0.6 ",
       "Avg KPI YTD": "82.99%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20100270",
-      "Nama ": "Sri Novilda",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Sri Novilda",
+      "Position": "RM Prioritas",
       "Main Branch": "BATAM",
       "Login MTD": "20",
       "Login DTD": "Y",
@@ -2082,13 +2083,13 @@
       "AVG Call ": " 8.4 ",
       "AVG Visit": " 2.5 ",
       "Avg KPI YTD": "13.58%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20100161",
-      "Nama ": "T.Heni Handayani",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "T.Heni Handayani",
+      "Position": "RM Consumer",
       "Main Branch": "TANJUNG PINANG",
       "Login MTD": "18",
       "Login DTD": "Y",
@@ -2097,13 +2098,13 @@
       "AVG Call ": " 9.2 ",
       "AVG Visit": " 4.9 ",
       "Avg KPI YTD": "20.57%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20050146",
-      "Nama ": "Anisma",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Anisma",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "TANJUNG PINANG",
       "Login MTD": "17",
       "Login DTD": "N",
@@ -2112,13 +2113,13 @@
       "AVG Call ": " 5.8 ",
       "AVG Visit": " 2.5 ",
       "Avg KPI YTD": "45.23%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20110532",
-      "Nama ": "Muazzin",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Muazzin",
+      "Position": "RM Consumer",
       "Main Branch": "BANDA ACEH",
       "Login MTD": "9",
       "Login DTD": "N",
@@ -2127,13 +2128,13 @@
       "AVG Call ": " 0.1 ",
       "AVG Visit": " 0.7 ",
       "Avg KPI YTD": "48.13%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20130915",
-      "Nama ": "Suhardi",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Suhardi",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "BANDA ACEH",
       "Login MTD": "15",
       "Login DTD": "Y",
@@ -2142,13 +2143,13 @@
       "AVG Call ": " 3.0 ",
       "AVG Visit": " 1.6 ",
       "Avg KPI YTD": "15.43%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20120909",
-      "Nama ": "Sayed Ilyas",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Sayed Ilyas",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "BANDA ACEH",
       "Login MTD": "14",
       "Login DTD": "N",
@@ -2157,13 +2158,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 3.5 ",
       "Avg KPI YTD": "40.30%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20210155",
-      "Nama ": "Anggya Sophia Imannisa",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Anggya Sophia Imannisa",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP LHOKSEUMAWE",
       "Login MTD": "14",
       "Login DTD": "Y",
@@ -2172,13 +2173,13 @@
       "AVG Call ": " 0.1 ",
       "AVG Visit": " 0.5 ",
       "Avg KPI YTD": "60.94%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20170116",
-      "Nama ": "Junaidi",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Junaidi",
+      "Position": "RM Prioritas",
       "Main Branch": "KCP LHOKSEUMAWE",
       "Login MTD": "18",
       "Login DTD": "N",
@@ -2187,13 +2188,13 @@
       "AVG Call ": " 0.1 ",
       "AVG Visit": " 6.8 ",
       "Avg KPI YTD": "28.14%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20120373",
-      "Nama ": "Yeni Aprilia",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Yeni Aprilia",
+      "Position": "RM Consumer",
       "Main Branch": "LAMPUNG",
       "Login MTD": "9",
       "Login DTD": "N",
@@ -2202,13 +2203,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 2.1 ",
       "Avg KPI YTD": "61.69%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20121178",
-      "Nama ": "Aprilia Rahmadani",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Aprilia Rahmadani",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "LAMPUNG",
       "Login MTD": "18",
       "Login DTD": "N",
@@ -2217,13 +2218,13 @@
       "AVG Call ": " 9.5 ",
       "AVG Visit": " 4.0 ",
       "Avg KPI YTD": "50.20%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220678",
-      "Nama ": "Vikka Arumningrat",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Vikka Arumningrat",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "LAMPUNG",
       "Login MTD": "2",
       "Login DTD": "Y",
@@ -2232,13 +2233,13 @@
       "AVG Call ": " 2.7 ",
       "AVG Visit": " 2.7 ",
       "Avg KPI YTD": "90.79%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220401",
-      "Nama ": "Devi Arvina",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Devi Arvina",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP ANTASARI LAMPUNG",
       "Login MTD": "10",
       "Login DTD": "N",
@@ -2247,13 +2248,13 @@
       "AVG Call ": " 4.5 ",
       "AVG Visit": " 3.0 ",
       "Avg KPI YTD": "55.28%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20110791",
-      "Nama ": "Budiman",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Budiman",
+      "Position": "RM Prioritas",
       "Main Branch": "LAMPUNG",
       "Login MTD": "13",
       "Login DTD": "N",
@@ -2262,13 +2263,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 6.0 ",
       "Avg KPI YTD": "75.12%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220737",
-      "Nama ": "Wisnu Cahya Subrata",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Wisnu Cahya Subrata",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP BANDAR JAYA",
       "Login MTD": "3",
       "Login DTD": "N",
@@ -2277,13 +2278,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 0.1 ",
       "Avg KPI YTD": "89.23%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230303",
-      "Nama ": "Merry Silvianica",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Merry Silvianica",
+      "Position": "RM Consumer",
       "Main Branch": "KCP METRO LAMPUNG",
       "Login MTD": "8",
       "Login DTD": "Y",
@@ -2292,13 +2293,13 @@
       "AVG Call ": " 0.8 ",
       "AVG Visit": " 2.0 ",
       "Avg KPI YTD": "49.23%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20190017",
-      "Nama ": "Fadhil Awang Pone",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Fadhil Awang Pone",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP METRO LAMPUNG",
       "Login MTD": "11",
       "Login DTD": "N",
@@ -2307,13 +2308,13 @@
       "AVG Call ": " 0.1 ",
       "AVG Visit": " 2.0 ",
       "Avg KPI YTD": "70.88%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20170376",
-      "Nama ": "Rachmah Cahaya Rizky",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Rachmah Cahaya Rizky",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP ZA PAGAR ALAM LAMPUNG",
       "Login MTD": "14",
       "Login DTD": "Y",
@@ -2322,13 +2323,13 @@
       "AVG Call ": " 0.9 ",
       "AVG Visit": " 2.3 ",
       "Avg KPI YTD": "65.93%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20190333",
-      "Nama ": "Mutiara Karvina Islamy",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Mutiara Karvina Islamy",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP KOTABUMI LAMPUNG",
       "Login MTD": "13",
       "Login DTD": "Y",
@@ -2337,13 +2338,13 @@
       "AVG Call ": " 3.9 ",
       "AVG Visit": " 4.2 ",
       "Avg KPI YTD": "67.40%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220555",
-      "Nama ": "Tomi Yuliza",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Tomi Yuliza",
+      "Position": "RM Consumer",
       "Main Branch": "PALEMBANG",
       "Login MTD": "16",
       "Login DTD": "N",
@@ -2352,13 +2353,13 @@
       "AVG Call ": " 0.5 ",
       "AVG Visit": " 1.4 ",
       "Avg KPI YTD": "40.94%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220725",
-      "Nama ": "Nabillah Syafitri",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Nabillah Syafitri",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "PALEMBANG",
       "Login MTD": "12",
       "Login DTD": "Y",
@@ -2367,13 +2368,13 @@
       "AVG Call ": " 0.5 ",
       "AVG Visit": " 3.5 ",
       "Avg KPI YTD": "71.07%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20120621",
-      "Nama ": "Siska Fitri Ayunda",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Siska Fitri Ayunda",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "PALEMBANG",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -2382,13 +2383,13 @@
       "AVG Call ": " 8.0 ",
       "AVG Visit": " 2.0 ",
       "Avg KPI YTD": "28.38%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20100688",
-      "Nama ": "Agung Kridantoro",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Agung Kridantoro",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "PALEMBANG",
       "Login MTD": "18",
       "Login DTD": "Y",
@@ -2397,13 +2398,13 @@
       "AVG Call ": " 2.5 ",
       "AVG Visit": " 3.8 ",
       "Avg KPI YTD": "72.38%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230391",
-      "Nama ": "Gita Tri Utami",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Gita Tri Utami",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "PALEMBANG",
       "Login MTD": "15",
       "Login DTD": "N",
@@ -2412,13 +2413,13 @@
       "AVG Call ": " 0.3 ",
       "AVG Visit": " 2.0 ",
       "Avg KPI YTD": "98.38%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20170674",
-      "Nama ": "Robiya",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Robiya",
+      "Position": "RM Prioritas",
       "Main Branch": "PALEMBANG",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -2427,13 +2428,13 @@
       "AVG Call ": " 0.1 ",
       "AVG Visit": " 3.0 ",
       "Avg KPI YTD": "76.21%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230520",
-      "Nama ": "Muhammad Toyib",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Muhammad Toyib",
+      "Position": "RM Consumer",
       "Main Branch": "KCP PLAJU",
       "Login MTD": "12",
       "Login DTD": "N",
@@ -2442,13 +2443,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 0.6 ",
       "Avg KPI YTD": "50.57%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20120337",
-      "Nama ": "Vina Carolina",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Vina Carolina",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP PLAJU",
       "Login MTD": "15",
       "Login DTD": "Y",
@@ -2457,13 +2458,13 @@
       "AVG Call ": " 0.5 ",
       "AVG Visit": " 2.1 ",
       "Avg KPI YTD": "67.24%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20240201",
-      "Nama ": "Rudiana Oktana Supardani",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Rudiana Oktana Supardani",
+      "Position": "RM Consumer",
       "Main Branch": "PANGKAL PINANG",
       "Login MTD": "20",
       "Login DTD": "Y",
@@ -2472,13 +2473,13 @@
       "AVG Call ": " 0.7 ",
       "AVG Visit": " 1.9 ",
       "Avg KPI YTD": "41.56%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20121377",
-      "Nama ": "Ricci Putri Pratiwi",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Ricci Putri Pratiwi",
+      "Position": "RM Prioritas",
       "Main Branch": "PANGKAL PINANG",
       "Login MTD": "20",
       "Login DTD": "Y",
@@ -2487,13 +2488,13 @@
       "AVG Call ": " 1.0 ",
       "AVG Visit": " 3.4 ",
       "Avg KPI YTD": "73.13%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20210121",
-      "Nama ": "Adelia Sundari",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Adelia Sundari",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP TANJUNG PANDAN",
       "Login MTD": "2",
       "Login DTD": "N",
@@ -2502,13 +2503,13 @@
       "AVG Call ": " 0.6 ",
       "AVG Visit": " 0.2 ",
       "Avg KPI YTD": "36.81%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20240023",
-      "Nama ": "Yogi Firdiansyah",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Yogi Firdiansyah",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP SUNGAILIAT",
       "Login MTD": "5",
       "Login DTD": "N",
@@ -2517,13 +2518,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 0.6 ",
       "Avg KPI YTD": "38.67%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220522",
-      "Nama ": "Krisna Tri Nugraha",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Krisna Tri Nugraha",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP BATURAJA",
       "Login MTD": "13",
       "Login DTD": "N",
@@ -2532,13 +2533,13 @@
       "AVG Call ": " 3.3 ",
       "AVG Visit": " 3.3 ",
       "Avg KPI YTD": "75.25%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20190049",
-      "Nama ": "Iindra Gunawan",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Iindra Gunawan",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP ENIM",
       "Login MTD": "18",
       "Login DTD": "Y",
@@ -2547,13 +2548,13 @@
       "AVG Call ": " 2.6 ",
       "AVG Visit": " 3.0 ",
       "Avg KPI YTD": "41.04%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220258",
-      "Nama ": "Putri Septiani",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Putri Septiani",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP KOBA",
       "Login MTD": "17",
       "Login DTD": "Y",
@@ -2562,13 +2563,13 @@
       "AVG Call ": " 2.1 ",
       "AVG Visit": " 3.5 ",
       "Avg KPI YTD": "98.28%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20170224",
-      "Nama ": "Fahruzi Alfani",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Fahruzi Alfani",
+      "Position": "RM Consumer",
       "Main Branch": "PADANG",
       "Login MTD": "20",
       "Login DTD": "Y",
@@ -2577,13 +2578,13 @@
       "AVG Call ": " 10.8 ",
       "AVG Visit": " 2.5 ",
       "Avg KPI YTD": "53.29%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20110273",
-      "Nama ": "Dodis Baikal",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Dodis Baikal",
+      "Position": "RM Consumer",
       "Main Branch": "PADANG",
       "Login MTD": "20",
       "Login DTD": "Y",
@@ -2592,13 +2593,13 @@
       "AVG Call ": " 8.3 ",
       "AVG Visit": " 2.9 ",
       "Avg KPI YTD": "51.28%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20100063",
-      "Nama ": "Evi Rozana",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Evi Rozana",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "PADANG",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -2607,13 +2608,13 @@
       "AVG Call ": " 10.3 ",
       "AVG Visit": " 2.4 ",
       "Avg KPI YTD": "58.84%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20170727",
-      "Nama ": "Lan Lan Awaludin",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Lan Lan Awaludin",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "PADANG",
       "Login MTD": "20",
       "Login DTD": "Y",
@@ -2622,13 +2623,13 @@
       "AVG Call ": " 9.7 ",
       "AVG Visit": " 2.5 ",
       "Avg KPI YTD": "70.65%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20170931",
-      "Nama ": "Rosa Hidayah",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Rosa Hidayah",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "PADANG",
       "Login MTD": "15",
       "Login DTD": "Y",
@@ -2637,13 +2638,13 @@
       "AVG Call ": " 9.9 ",
       "AVG Visit": " 2.6 ",
       "Avg KPI YTD": "61.23%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20050099",
-      "Nama ": "Vionna Aprillia",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Vionna Aprillia",
+      "Position": "RM Prioritas",
       "Main Branch": "PADANG",
       "Login MTD": "20",
       "Login DTD": "Y",
@@ -2652,13 +2653,13 @@
       "AVG Call ": " 10.5 ",
       "AVG Visit": " 2.9 ",
       "Avg KPI YTD": "37.23%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20140792",
-      "Nama ": "Nadia Utika Putri",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Nadia Utika Putri",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP BUKITTINGGI",
       "Login MTD": "14",
       "Login DTD": "Y",
@@ -2667,13 +2668,13 @@
       "AVG Call ": " 0.7 ",
       "AVG Visit": " 3.8 ",
       "Avg KPI YTD": "89.04%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20100383",
-      "Nama ": "Hendra Putra",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Hendra Putra",
+      "Position": "RM Consumer",
       "Main Branch": "KCP PAYAKUMBUH",
       "Login MTD": "18",
       "Login DTD": "Y",
@@ -2682,13 +2683,13 @@
       "AVG Call ": " 0.4 ",
       "AVG Visit": " 2.1 ",
       "Avg KPI YTD": "68.22%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20070085",
-      "Nama ": "Riza Yumeri",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Riza Yumeri",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP PAYAKUMBUH",
       "Login MTD": "20",
       "Login DTD": "Y",
@@ -2697,13 +2698,13 @@
       "AVG Call ": " 0.3 ",
       "AVG Visit": " 2.5 ",
       "Avg KPI YTD": "96.10%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20060078",
-      "Nama ": "Arhadi Putera",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Arhadi Putera",
+      "Position": "RM Consumer",
       "Main Branch": "KCP SOLOK",
       "Login MTD": "17",
       "Login DTD": "N",
@@ -2712,13 +2713,13 @@
       "AVG Call ": " 3.0 ",
       "AVG Visit": " 1.5 ",
       "Avg KPI YTD": "28.12%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20140796",
-      "Nama ": "Lusio Eka Fitri",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Lusio Eka Fitri",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP SOLOK",
       "Login MTD": "18",
       "Login DTD": "N",
@@ -2727,13 +2728,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 3.8 ",
       "Avg KPI YTD": "49.20%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20030071",
-      "Nama ": "Dian Novera",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Dian Novera",
+      "Position": "RM Consumer",
       "Main Branch": "BENGKULU",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -2742,13 +2743,13 @@
       "AVG Call ": " 1.7 ",
       "AVG Visit": " 2.5 ",
       "Avg KPI YTD": "51.75%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20100184",
-      "Nama ": "Dadang Muhamad Soleh",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Dadang Muhamad Soleh",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "BENGKULU",
       "Login MTD": "19",
       "Login DTD": "N",
@@ -2757,13 +2758,13 @@
       "AVG Call ": " 14.3 ",
       "AVG Visit": " 2.7 ",
       "Avg KPI YTD": "45.79%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20140300",
-      "Nama ": "Meki Junaidi",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Meki Junaidi",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "BENGKULU",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -2772,13 +2773,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " -   ",
       "Avg KPI YTD": "0.00%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20130582",
-      "Nama ": "Septri Utami",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Septri Utami",
+      "Position": "RM Prioritas",
       "Main Branch": "BENGKULU",
       "Login MTD": "10",
       "Login DTD": "N",
@@ -2787,13 +2788,13 @@
       "AVG Call ": " 0.5 ",
       "AVG Visit": " 3.5 ",
       "Avg KPI YTD": "92.89%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20140299",
-      "Nama ": "Diah permata sari",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Diah permata sari",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP CURUP",
       "Login MTD": "17",
       "Login DTD": "N",
@@ -2802,13 +2803,13 @@
       "AVG Call ": " 10.8 ",
       "AVG Visit": " 2.3 ",
       "Avg KPI YTD": "89.20%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20180564",
-      "Nama ": "Dittia Rahma",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Dittia Rahma",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "JAMBI",
       "Login MTD": "20",
       "Login DTD": "Y",
@@ -2817,13 +2818,13 @@
       "AVG Call ": " 10.0 ",
       "AVG Visit": " 2.0 ",
       "Avg KPI YTD": "60.66%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20120924",
-      "Nama ": "Ramang Febri Atmaja",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Ramang Febri Atmaja",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP MANNA BENGKULU",
       "Login MTD": "18",
       "Login DTD": "Y",
@@ -2832,13 +2833,13 @@
       "AVG Call ": " 0.8 ",
       "AVG Visit": " 3.9 ",
       "Avg KPI YTD": "58.52%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220354",
-      "Nama ": "Violani Piranti",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Violani Piranti",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP ARGA MAKMUR",
       "Login MTD": "17",
       "Login DTD": "N",
@@ -2847,13 +2848,13 @@
       "AVG Call ": " 6.0 ",
       "AVG Visit": " 5.3 ",
       "Avg KPI YTD": "81.30%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20140194",
-      "Nama ": "Rika Rehmintha",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Rika Rehmintha",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP KISARAN",
       "Login MTD": "10",
       "Login DTD": "Y",
@@ -2862,13 +2863,13 @@
       "AVG Call ": " 1.3 ",
       "AVG Visit": " 1.1 ",
       "Avg KPI YTD": "38.74%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230351",
-      "Nama ": "Helsa Fakhira Kusnadi",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Helsa Fakhira Kusnadi",
+      "Position": "RM Consumer",
       "Main Branch": "MEDAN BARU",
       "Login MTD": "17",
       "Login DTD": "N",
@@ -2877,13 +2878,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 1.8 ",
       "Avg KPI YTD": "50.44%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20140677",
-      "Nama ": "Al Adly Adriansyah Pp",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Al Adly Adriansyah Pp",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "MEDAN BARU",
       "Login MTD": "20",
       "Login DTD": "Y",
@@ -2892,13 +2893,13 @@
       "AVG Call ": " 0.1 ",
       "AVG Visit": " 2.4 ",
       "Avg KPI YTD": "115.61%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20190003",
-      "Nama ": "Ade Haslilasari",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Ade Haslilasari",
+      "Position": "RM Prioritas",
       "Main Branch": "MEDAN BARU",
       "Login MTD": "19",
       "Login DTD": "N",
@@ -2907,13 +2908,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 3.1 ",
       "Avg KPI YTD": "51.45%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20210144",
-      "Nama ": "Dimas Tri Soufi",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Dimas Tri Soufi",
+      "Position": "CS Reguler",
       "Main Branch": "MEDAN BALAIKOTA",
       "Login MTD": "0",
       "Login DTD": "Y",
@@ -2924,10 +2925,10 @@
       "Avg KPI YTD": "73.68%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220154",
-      "Nama ": "Muhammad Fahri Siregar",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Muhammad Fahri Siregar",
+      "Position": "CS Reguler",
       "Main Branch": "MEDAN BALAIKOTA",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -2938,10 +2939,10 @@
       "Avg KPI YTD": "0.00%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230572",
-      "Nama ": "Muhammad Wahyu Afdika",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Muhammad Wahyu Afdika",
+      "Position": "CS Reguler",
       "Main Branch": "KCP SUKARAMAI",
       "Login MTD": "11",
       "Login DTD": "Y",
@@ -2952,10 +2953,10 @@
       "Avg KPI YTD": "83.46%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220661",
-      "Nama ": "Indi Fadillah Sari",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Indi Fadillah Sari",
+      "Position": "CS Reguler",
       "Main Branch": "KCP SERDANG",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -2966,10 +2967,10 @@
       "Avg KPI YTD": "0.00%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20210033",
-      "Nama ": "Winda Lestari",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Winda Lestari",
+      "Position": "CS Reguler",
       "Main Branch": "PADANG SIDEMPUAN",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -2980,10 +2981,10 @@
       "Avg KPI YTD": "91.26%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20240377",
-      "Nama ": "Imelda Suciadewi",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Imelda Suciadewi",
+      "Position": "CS Reguler",
       "Main Branch": "KCP PANYABUNGAN",
       "Login MTD": "9",
       "Login DTD": "Y",
@@ -2994,10 +2995,10 @@
       "Avg KPI YTD": "0.00%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20240254",
-      "Nama ": "Wahyu Abdi",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Wahyu Abdi",
+      "Position": "CS Reguler",
       "Main Branch": "PEKANBARU",
       "Login MTD": "1",
       "Login DTD": "N",
@@ -3008,10 +3009,10 @@
       "Avg KPI YTD": "77.86%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20240410",
-      "Nama ": "Eka Indah Suprapti Ningsih",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Eka Indah Suprapti Ningsih",
+      "Position": "CS Reguler",
       "Main Branch": "BATAM",
       "Login MTD": "4",
       "Login DTD": "N",
@@ -3022,10 +3023,10 @@
       "Avg KPI YTD": "0.00%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20130158",
-      "Nama ": "Hadrian Aris",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Hadrian Aris",
+      "Position": "CS Reguler",
       "Main Branch": "TANJUNG PINANG",
       "Login MTD": "19",
       "Login DTD": "N",
@@ -3036,10 +3037,10 @@
       "Avg KPI YTD": "72.72%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220158",
-      "Nama ": "Yunda Sufni",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Yunda Sufni",
+      "Position": "CS Reguler",
       "Main Branch": "BANDA ACEH",
       "Login MTD": "10",
       "Login DTD": "N",
@@ -3050,10 +3051,10 @@
       "Avg KPI YTD": "69.90%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230090",
-      "Nama ": "T. Ilham Khaliq",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "T. Ilham Khaliq",
+      "Position": "CS Reguler",
       "Main Branch": "BANDA ACEH",
       "Login MTD": "10",
       "Login DTD": "N",
@@ -3064,10 +3065,10 @@
       "Avg KPI YTD": "80.55%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230614",
-      "Nama ": "Septia Mulia Hadana",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Septia Mulia Hadana",
+      "Position": "CS Reguler",
       "Main Branch": "LANGSA",
       "Login MTD": "13",
       "Login DTD": "N",
@@ -3078,10 +3079,10 @@
       "Avg KPI YTD": "81.65%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220108",
-      "Nama ": "Muhammad Ilham Lapara",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Muhammad Ilham Lapara",
+      "Position": "CS Reguler",
       "Main Branch": "KCP LHOKSEUMAWE",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -3092,10 +3093,10 @@
       "Avg KPI YTD": "93.86%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230030",
-      "Nama ": "Hami Rantina",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Hami Rantina",
+      "Position": "CS Reguler",
       "Main Branch": "LAMPUNG",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -3106,10 +3107,10 @@
       "Avg KPI YTD": "71.86%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230390",
-      "Nama ": "Galang Syahputra",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Galang Syahputra",
+      "Position": "CS Reguler",
       "Main Branch": "LAMPUNG",
       "Login MTD": "6",
       "Login DTD": "N",
@@ -3120,10 +3121,10 @@
       "Avg KPI YTD": "64.72%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220322",
-      "Nama ": "Abdul Syaib Hasibuan",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Abdul Syaib Hasibuan",
+      "Position": "CS Reguler",
       "Main Branch": "KCP BANDAR JAYA",
       "Login MTD": "15",
       "Login DTD": "Y",
@@ -3134,10 +3135,10 @@
       "Avg KPI YTD": "96.00%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230086",
-      "Nama ": "Hendri Prayoga",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Hendri Prayoga",
+      "Position": "CS Reguler",
       "Main Branch": "KCP METRO LAMPUNG",
       "Login MTD": "17",
       "Login DTD": "N",
@@ -3148,10 +3149,10 @@
       "Avg KPI YTD": "92.24%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220095",
-      "Nama ": "Dhani Murtadho",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Dhani Murtadho",
+      "Position": "CS Reguler",
       "Main Branch": "KCP ZA PAGAR ALAM LAMPUNG",
       "Login MTD": "4",
       "Login DTD": "Y",
@@ -3162,10 +3163,10 @@
       "Avg KPI YTD": "85.22%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20200213",
-      "Nama ": "Viki Muhammad Sukron",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Viki Muhammad Sukron",
+      "Position": "CS Reguler",
       "Main Branch": "KCP KOTABUMI LAMPUNG",
       "Login MTD": "18",
       "Login DTD": "N",
@@ -3176,10 +3177,10 @@
       "Avg KPI YTD": "114.86%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20250008",
-      "Nama ": "Munzila Febi Aulia",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Munzila Febi Aulia",
+      "Position": "CS Reguler",
       "Main Branch": "PALEMBANG",
       "Login MTD": "17",
       "Login DTD": "N",
@@ -3190,10 +3191,10 @@
       "Avg KPI YTD": "0.00%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20210165",
-      "Nama ": "Zanariah",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Zanariah",
+      "Position": "CS Reguler",
       "Main Branch": "KCP PLAJU",
       "Login MTD": "17",
       "Login DTD": "Y",
@@ -3204,10 +3205,10 @@
       "Avg KPI YTD": "70.22%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230310",
-      "Nama ": "Hamidah Siffa Garishah",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Hamidah Siffa Garishah",
+      "Position": "CS Reguler",
       "Main Branch": "PANGKAL PINANG",
       "Login MTD": "16",
       "Login DTD": "Y",
@@ -3218,10 +3219,10 @@
       "Avg KPI YTD": "105.63%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20240065",
-      "Nama ": "Melisa Nurmaulina",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Melisa Nurmaulina",
+      "Position": "CS Reguler",
       "Main Branch": "PANGKAL PINANG",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -3232,10 +3233,10 @@
       "Avg KPI YTD": "114.60%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230372",
-      "Nama ": "Nisa Pratami",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Nisa Pratami",
+      "Position": "CS Reguler",
       "Main Branch": "KCP TANJUNG PANDAN",
       "Login MTD": "3",
       "Login DTD": "Y",
@@ -3246,10 +3247,10 @@
       "Avg KPI YTD": "79.96%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230360",
-      "Nama ": "Silpita Maras Tika",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Silpita Maras Tika",
+      "Position": "CS Reguler",
       "Main Branch": "KCP SUNGAILIAT",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -3260,10 +3261,10 @@
       "Avg KPI YTD": "104.17%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230076",
-      "Nama ": "Firsta Adela",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Firsta Adela",
+      "Position": "CS Reguler",
       "Main Branch": "KCP BATURAJA",
       "Login MTD": "19",
       "Login DTD": "Y",
@@ -3274,10 +3275,10 @@
       "Avg KPI YTD": "80.10%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230270",
-      "Nama ": "Ayu Nidia",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Ayu Nidia",
+      "Position": "CS Reguler",
       "Main Branch": "KCP ENIM",
       "Login MTD": "9",
       "Login DTD": "Y",
@@ -3288,10 +3289,10 @@
       "Avg KPI YTD": "73.82%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220167",
-      "Nama ": "Morin Oktavia",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Morin Oktavia",
+      "Position": "CS Reguler",
       "Main Branch": "KCP KOBA",
       "Login MTD": "17",
       "Login DTD": "Y",
@@ -3302,10 +3303,10 @@
       "Avg KPI YTD": "99.45%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20110436",
-      "Nama ": "Debby Narita",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Debby Narita",
+      "Position": "CS Reguler",
       "Main Branch": "PADANG",
       "Login MTD": "0",
       "Login DTD": "Y",
@@ -3316,10 +3317,10 @@
       "Avg KPI YTD": "96.08%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20240298",
-      "Nama ": "Hesty Yuliana Putri",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Hesty Yuliana Putri",
+      "Position": "CS Reguler",
       "Main Branch": "KCP BUKITTINGGI",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -3330,10 +3331,10 @@
       "Avg KPI YTD": "74.03%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230431",
-      "Nama ": "Muftiathul Huda",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Muftiathul Huda",
+      "Position": "CS Reguler",
       "Main Branch": "KCP PAYAKUMBUH",
       "Login MTD": "0",
       "Login DTD": "Y",
@@ -3344,10 +3345,10 @@
       "Avg KPI YTD": "84.41%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230256",
-      "Nama ": "Inayah",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Inayah",
+      "Position": "CS Reguler",
       "Main Branch": "KCP SOLOK",
       "Login MTD": "5",
       "Login DTD": "Y",
@@ -3358,10 +3359,10 @@
       "Avg KPI YTD": "79.12%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220485",
-      "Nama ": "Mahmud Pralianto",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Mahmud Pralianto",
+      "Position": "CS Reguler",
       "Main Branch": "BENGKULU",
       "Login MTD": "17",
       "Login DTD": "N",
@@ -3372,10 +3373,10 @@
       "Avg KPI YTD": "83.24%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20121880",
-      "Nama ": "Novita Sari",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Novita Sari",
+      "Position": "CS Reguler",
       "Main Branch": "BENGKULU",
       "Login MTD": "7",
       "Login DTD": "N",
@@ -3386,10 +3387,10 @@
       "Avg KPI YTD": ""
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20130115",
-      "Nama ": "Destia Gita",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Destia Gita",
+      "Position": "CS Reguler",
       "Main Branch": "KCP CURUP",
       "Login MTD": "12",
       "Login DTD": "N",
@@ -3400,10 +3401,10 @@
       "Avg KPI YTD": "112.11%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20240257",
-      "Nama ": "Alif Nur Rohman",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Alif Nur Rohman",
+      "Position": "CS Reguler",
       "Main Branch": "JAMBI",
       "Login MTD": "0",
       "Login DTD": "Y",
@@ -3414,10 +3415,10 @@
       "Avg KPI YTD": "77.52%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230574",
-      "Nama ": "Anggreini Larasati Subarno",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Anggreini Larasati Subarno",
+      "Position": "CS Reguler",
       "Main Branch": "KCP MUARA BUNGO",
       "Login MTD": "16",
       "Login DTD": "N",
@@ -3428,10 +3429,10 @@
       "Avg KPI YTD": "100.82%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220306",
-      "Nama ": "Ika Nurfatimah",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Ika Nurfatimah",
+      "Position": "CS Reguler",
       "Main Branch": "KCP MANNA BENGKULU",
       "Login MTD": "18",
       "Login DTD": "Y",
@@ -3442,10 +3443,10 @@
       "Avg KPI YTD": "78.38%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230131",
-      "Nama ": "Wiki Lia Rahmadani",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Wiki Lia Rahmadani",
+      "Position": "CS Reguler",
       "Main Branch": "KCP BINJAI",
       "Login MTD": "5",
       "Login DTD": "N",
@@ -3456,10 +3457,10 @@
       "Avg KPI YTD": "97.38%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20240314",
-      "Nama ": "Aulia Fadillah Yusri",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Aulia Fadillah Yusri",
+      "Position": "CS Reguler",
       "Main Branch": "PEMATANG SIANTAR",
       "Login MTD": "3",
       "Login DTD": "N",
@@ -3470,10 +3471,10 @@
       "Avg KPI YTD": "0.00%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20220650",
-      "Nama ": "Liza Nattasya M",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Liza Nattasya M",
+      "Position": "CS Reguler",
       "Main Branch": "KCP KISARAN",
       "Login MTD": "11",
       "Login DTD": "N",
@@ -3484,10 +3485,10 @@
       "Avg KPI YTD": "86.91%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230408",
-      "Nama ": "Aldha Rianza Putri",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Aldha Rianza Putri",
+      "Position": "CS Reguler",
       "Main Branch": "KCP STABAT",
       "Login MTD": "13",
       "Login DTD": "N",
@@ -3498,10 +3499,10 @@
       "Avg KPI YTD": "85.65%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230130",
-      "Nama ": "Feby Aulya Wardani",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Feby Aulya Wardani",
+      "Position": "CS Reguler",
       "Main Branch": "MEDAN BARU",
       "Login MTD": "2",
       "Login DTD": "N",
@@ -3512,10 +3513,10 @@
       "Avg KPI YTD": "68.75%"
     },
     {
-      "Periode": "28 Feb 2025",
+      "Period": "28 Feb 2025",
       "NIK": "20230526",
-      "Nama ": "Halwa Salsabila Tandra",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Halwa Salsabila Tandra",
+      "Position": "CS Reguler",
       "Main Branch": "MEDAN BARU",
       "Login MTD": "19",
       "Login DTD": "N",
@@ -3526,10 +3527,10 @@
       "Avg KPI YTD": "68.06%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20110596",
-      "Nama ": "Arief Rahman",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Arief Rahman",
+      "Position": "RM Consumer",
       "Main Branch": "MEDAN BALAIKOTA",
       "Login MTD": "9",
       "Login DTD": "N",
@@ -3538,13 +3539,13 @@
       "AVG Call ": " 0.8 ",
       "AVG Visit": " 1.1 ",
       "Avg KPI YTD": "46.42%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220046",
-      "Nama ": "M Ziqhri Anhar Nasution",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "M Ziqhri Anhar Nasution",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "MEDAN BALAIKOTA",
       "Login MTD": "16",
       "Login DTD": "Y",
@@ -3553,13 +3554,13 @@
       "AVG Call ": " 5.2 ",
       "AVG Visit": " 3.0 ",
       "Avg KPI YTD": "92.94%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20110795",
-      "Nama ": "M Arif Maulana",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "M Arif Maulana",
+      "Position": "RM Prioritas",
       "Main Branch": "MEDAN BALAIKOTA",
       "Login MTD": "17",
       "Login DTD": "Y",
@@ -3568,13 +3569,13 @@
       "AVG Call ": " 10.1 ",
       "AVG Visit": " 2.2 ",
       "Avg KPI YTD": "72.38%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20240305",
-      "Nama ": "Muhammad Suhaimi Nasution",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Muhammad Suhaimi Nasution",
+      "Position": "RM Prioritas",
       "Main Branch": "MEDAN BALAIKOTA",
       "Login MTD": "15",
       "Login DTD": "N",
@@ -3583,13 +3584,13 @@
       "AVG Call ": " 2.2 ",
       "AVG Visit": " 2.9 ",
       "Avg KPI YTD": "84.20%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20150455",
-      "Nama ": "Aulia Ariffandi",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Aulia Ariffandi",
+      "Position": "RM Consumer",
       "Main Branch": "KCP SUKARAMAI",
       "Login MTD": "15",
       "Login DTD": "Y",
@@ -3598,13 +3599,13 @@
       "AVG Call ": " 1.5 ",
       "AVG Visit": " 0.6 ",
       "Avg KPI YTD": "23.38%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20121016",
-      "Nama ": "Intani Tiara Asmaulhusna",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Intani Tiara Asmaulhusna",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP SUKARAMAI",
       "Login MTD": "7",
       "Login DTD": "N",
@@ -3613,13 +3614,13 @@
       "AVG Call ": " 0.9 ",
       "AVG Visit": " 0.8 ",
       "Avg KPI YTD": "42.00%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220713",
-      "Nama ": "Sapitri",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Sapitri",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP SERDANG",
       "Login MTD": "14",
       "Login DTD": "N",
@@ -3628,13 +3629,13 @@
       "AVG Call ": " 3.7 ",
       "AVG Visit": " 1.7 ",
       "Avg KPI YTD": "79.38%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20210188",
-      "Nama ": "Amelia Suriani Lase",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Amelia Suriani Lase",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "PADANG SIDEMPUAN",
       "Login MTD": "12",
       "Login DTD": "N",
@@ -3643,13 +3644,13 @@
       "AVG Call ": " 0.1 ",
       "AVG Visit": " 0.8 ",
       "Avg KPI YTD": "47.09%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20110019",
-      "Nama ": "Rini Agustina",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Rini Agustina",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "PADANG SIDEMPUAN",
       "Login MTD": "17",
       "Login DTD": "Y",
@@ -3658,13 +3659,13 @@
       "AVG Call ": " 0.1 ",
       "AVG Visit": " 0.5 ",
       "Avg KPI YTD": "61.35%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20140608",
-      "Nama ": "Asely Munawaroh",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Asely Munawaroh",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP PANYABUNGAN",
       "Login MTD": "12",
       "Login DTD": "Y",
@@ -3673,13 +3674,13 @@
       "AVG Call ": " 0.9 ",
       "AVG Visit": " 2.7 ",
       "Avg KPI YTD": "85.31%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230542",
-      "Nama ": "Hary Anggara",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Hary Anggara",
+      "Position": "RM Consumer",
       "Main Branch": "PEKANBARU",
       "Login MTD": "16",
       "Login DTD": "N",
@@ -3688,13 +3689,13 @@
       "AVG Call ": " 5.6 ",
       "AVG Visit": " 2.6 ",
       "Avg KPI YTD": "61.44%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220660",
-      "Nama ": "Yolanda Savira Rizaldi",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Yolanda Savira Rizaldi",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "PEKANBARU",
       "Login MTD": "17",
       "Login DTD": "Y",
@@ -3703,13 +3704,13 @@
       "AVG Call ": " 7.1 ",
       "AVG Visit": " 3.1 ",
       "Avg KPI YTD": "79.00%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20210349",
-      "Nama ": "Apri Wilnita",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Apri Wilnita",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "PEKANBARU",
       "Login MTD": "15",
       "Login DTD": "N",
@@ -3718,13 +3719,13 @@
       "AVG Call ": " 10.8 ",
       "AVG Visit": " 2.7 ",
       "Avg KPI YTD": "46.53%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20120685",
-      "Nama ": "Selvi Fatmi Rofinda",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Selvi Fatmi Rofinda",
+      "Position": "RM Prioritas",
       "Main Branch": "PEKANBARU",
       "Login MTD": "15",
       "Login DTD": "N",
@@ -3733,13 +3734,13 @@
       "AVG Call ": " 5.6 ",
       "AVG Visit": " 3.2 ",
       "Avg KPI YTD": "46.03%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230306",
-      "Nama ": "Adeliza Meisy",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Adeliza Meisy",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP KAMPAR",
       "Login MTD": "14",
       "Login DTD": "N",
@@ -3748,13 +3749,13 @@
       "AVG Call ": " 0.3 ",
       "AVG Visit": " 2.8 ",
       "Avg KPI YTD": "110.76%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20090360",
-      "Nama ": "Rachmad Firmansyah",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Rachmad Firmansyah",
+      "Position": "RM Consumer",
       "Main Branch": "BATAM",
       "Login MTD": "2",
       "Login DTD": "Y",
@@ -3763,13 +3764,13 @@
       "AVG Call ": " 0.3 ",
       "AVG Visit": " 0.1 ",
       "Avg KPI YTD": "18.01%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220434",
-      "Nama ": "Tangguh Damar Ramadhan",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Tangguh Damar Ramadhan",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "BATAM",
       "Login MTD": "16",
       "Login DTD": "Y",
@@ -3778,13 +3779,13 @@
       "AVG Call ": " 3.9 ",
       "AVG Visit": " 0.1 ",
       "Avg KPI YTD": "82.99%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20100270",
-      "Nama ": "Sri Novilda",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Sri Novilda",
+      "Position": "RM Prioritas",
       "Main Branch": "BATAM",
       "Login MTD": "16",
       "Login DTD": "Y",
@@ -3793,13 +3794,13 @@
       "AVG Call ": " 10.4 ",
       "AVG Visit": " 2.0 ",
       "Avg KPI YTD": "13.58%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20100161",
-      "Nama ": "T.Heni Handayani",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "T.Heni Handayani",
+      "Position": "RM Consumer",
       "Main Branch": "TANJUNG PINANG",
       "Login MTD": "16",
       "Login DTD": "N",
@@ -3808,13 +3809,13 @@
       "AVG Call ": " 11.1 ",
       "AVG Visit": " 5.0 ",
       "Avg KPI YTD": "20.57%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20110532",
-      "Nama ": "Muazzin",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Muazzin",
+      "Position": "RM Consumer",
       "Main Branch": "BANDA ACEH",
       "Login MTD": "10",
       "Login DTD": "Y",
@@ -3823,13 +3824,13 @@
       "AVG Call ": " 0.8 ",
       "AVG Visit": " 0.9 ",
       "Avg KPI YTD": "48.13%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20130915",
-      "Nama ": "Suhardi",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Suhardi",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "BANDA ACEH",
       "Login MTD": "4",
       "Login DTD": "N",
@@ -3838,13 +3839,13 @@
       "AVG Call ": " 1.2 ",
       "AVG Visit": " 0.5 ",
       "Avg KPI YTD": "15.43%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20120909",
-      "Nama ": "Sayed Ilyas",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Sayed Ilyas",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "BANDA ACEH",
       "Login MTD": "11",
       "Login DTD": "N",
@@ -3853,13 +3854,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 3.4 ",
       "Avg KPI YTD": "40.30%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220108",
-      "Nama ": "Muhammad Ilham Lapara",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Muhammad Ilham Lapara",
+      "Position": "RM Consumer",
       "Main Branch": "KCP LHOKSEUMAWE",
       "Login MTD": "10",
       "Login DTD": "Y",
@@ -3868,13 +3869,13 @@
       "AVG Call ": " 0.5 ",
       "AVG Visit": " 0.1 ",
       "Avg KPI YTD": "93.86%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20210155",
-      "Nama ": "Anggya Sophia Imannisa",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Anggya Sophia Imannisa",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP LHOKSEUMAWE",
       "Login MTD": "7",
       "Login DTD": "Y",
@@ -3883,13 +3884,13 @@
       "AVG Call ": " 0.2 ",
       "AVG Visit": " 0.4 ",
       "Avg KPI YTD": "60.94%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20170116",
-      "Nama ": "Junaidi",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Junaidi",
+      "Position": "RM Prioritas",
       "Main Branch": "KCP LHOKSEUMAWE",
       "Login MTD": "13",
       "Login DTD": "N",
@@ -3898,13 +3899,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 3.8 ",
       "Avg KPI YTD": "28.14%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20120373",
-      "Nama ": "Yeni Aprilia",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Yeni Aprilia",
+      "Position": "RM Consumer",
       "Main Branch": "LAMPUNG",
       "Login MTD": "11",
       "Login DTD": "Y",
@@ -3913,13 +3914,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 2.2 ",
       "Avg KPI YTD": "61.69%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20121178",
-      "Nama ": "Aprilia Rahmadani",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Aprilia Rahmadani",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "LAMPUNG",
       "Login MTD": "16",
       "Login DTD": "N",
@@ -3928,13 +3929,13 @@
       "AVG Call ": " 9.8 ",
       "AVG Visit": " 4.3 ",
       "Avg KPI YTD": "50.20%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220678",
-      "Nama ": "Vikka Arumningrat",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Vikka Arumningrat",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "LAMPUNG",
       "Login MTD": "12",
       "Login DTD": "Y",
@@ -3943,13 +3944,13 @@
       "AVG Call ": " 4.2 ",
       "AVG Visit": " 2.2 ",
       "Avg KPI YTD": "90.79%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220401",
-      "Nama ": "Devi Arvina",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Devi Arvina",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP ANTASARI LAMPUNG",
       "Login MTD": "15",
       "Login DTD": "N",
@@ -3958,13 +3959,13 @@
       "AVG Call ": " 4.3 ",
       "AVG Visit": " 1.6 ",
       "Avg KPI YTD": "55.28%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20110791",
-      "Nama ": "Budiman",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Budiman",
+      "Position": "RM Prioritas",
       "Main Branch": "LAMPUNG",
       "Login MTD": "15",
       "Login DTD": "Y",
@@ -3973,13 +3974,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 5.3 ",
       "Avg KPI YTD": "75.12%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220737",
-      "Nama ": "Wisnu Cahya Subrata",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Wisnu Cahya Subrata",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP BANDAR JAYA",
       "Login MTD": "12",
       "Login DTD": "N",
@@ -3988,13 +3989,13 @@
       "AVG Call ": " 1.1 ",
       "AVG Visit": " 1.2 ",
       "Avg KPI YTD": "89.23%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230303",
-      "Nama ": "Merry Silvianica",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Merry Silvianica",
+      "Position": "RM Consumer",
       "Main Branch": "KCP METRO LAMPUNG",
       "Login MTD": "11",
       "Login DTD": "N",
@@ -4003,13 +4004,13 @@
       "AVG Call ": " 1.2 ",
       "AVG Visit": " 1.9 ",
       "Avg KPI YTD": "49.23%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20190017",
-      "Nama ": "Fadhil Awang Pone",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Fadhil Awang Pone",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP METRO LAMPUNG",
       "Login MTD": "14",
       "Login DTD": "Y",
@@ -4018,13 +4019,13 @@
       "AVG Call ": " 1.4 ",
       "AVG Visit": " 1.0 ",
       "Avg KPI YTD": "70.88%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20170376",
-      "Nama ": "Rachmah Cahaya Rizky",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Rachmah Cahaya Rizky",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP ZA PAGAR ALAM LAMPUNG",
       "Login MTD": "15",
       "Login DTD": "Y",
@@ -4033,13 +4034,13 @@
       "AVG Call ": " 2.5 ",
       "AVG Visit": " 3.4 ",
       "Avg KPI YTD": "65.93%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20190333",
-      "Nama ": "Mutiara Karvina Islamy",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Mutiara Karvina Islamy",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP KOTABUMI LAMPUNG",
       "Login MTD": "8",
       "Login DTD": "N",
@@ -4048,13 +4049,13 @@
       "AVG Call ": " 2.5 ",
       "AVG Visit": " 1.9 ",
       "Avg KPI YTD": "67.40%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220555",
-      "Nama ": "Tomi Yuliza",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Tomi Yuliza",
+      "Position": "RM Consumer",
       "Main Branch": "PALEMBANG",
       "Login MTD": "10",
       "Login DTD": "N",
@@ -4063,13 +4064,13 @@
       "AVG Call ": " 0.2 ",
       "AVG Visit": " 0.9 ",
       "Avg KPI YTD": "40.94%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20120621",
-      "Nama ": "Siska Fitri Ayunda",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Siska Fitri Ayunda",
+      "Position": "RM Consumer",
       "Main Branch": "PALEMBANG",
       "Login MTD": "15",
       "Login DTD": "Y",
@@ -4078,13 +4079,13 @@
       "AVG Call ": " 2.8 ",
       "AVG Visit": " 1.9 ",
       "Avg KPI YTD": "28.38%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220725",
-      "Nama ": "Nabillah Syafitri",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Nabillah Syafitri",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "PALEMBANG",
       "Login MTD": "9",
       "Login DTD": "N",
@@ -4093,13 +4094,13 @@
       "AVG Call ": " 0.6 ",
       "AVG Visit": " 2.5 ",
       "Avg KPI YTD": "71.07%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20100688",
-      "Nama ": "Agung Kridantoro",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Agung Kridantoro",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "PALEMBANG",
       "Login MTD": "17",
       "Login DTD": "Y",
@@ -4108,13 +4109,13 @@
       "AVG Call ": " 0.3 ",
       "AVG Visit": " 2.6 ",
       "Avg KPI YTD": "72.38%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230391",
-      "Nama ": "Gita Tri Utami",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Gita Tri Utami",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "PALEMBANG",
       "Login MTD": "13",
       "Login DTD": "N",
@@ -4123,13 +4124,13 @@
       "AVG Call ": " 0.1 ",
       "AVG Visit": " 2.3 ",
       "Avg KPI YTD": "98.38%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20170674",
-      "Nama ": "Robiya",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Robiya",
+      "Position": "RM Prioritas",
       "Main Branch": "PALEMBANG",
       "Login MTD": "13",
       "Login DTD": "N",
@@ -4138,13 +4139,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 1.9 ",
       "Avg KPI YTD": "76.21%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230520",
-      "Nama ": "Muhammad Toyib",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Muhammad Toyib",
+      "Position": "RM Consumer",
       "Main Branch": "KCP PLAJU",
       "Login MTD": "3",
       "Login DTD": "N",
@@ -4153,13 +4154,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 0.2 ",
       "Avg KPI YTD": "50.57%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20120337",
-      "Nama ": "Vina Carolina",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Vina Carolina",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP PLAJU",
       "Login MTD": "10",
       "Login DTD": "Y",
@@ -4168,13 +4169,13 @@
       "AVG Call ": " 0.1 ",
       "AVG Visit": " 1.9 ",
       "Avg KPI YTD": "67.24%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220522",
-      "Nama ": "Krisna Tri Nugraha",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Krisna Tri Nugraha",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP BATURAJA",
       "Login MTD": "5",
       "Login DTD": "N",
@@ -4183,13 +4184,13 @@
       "AVG Call ": " 0.4 ",
       "AVG Visit": " 0.2 ",
       "Avg KPI YTD": "75.25%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20240201",
-      "Nama ": "Rudiana Oktana Supardani",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Rudiana Oktana Supardani",
+      "Position": "RM Consumer",
       "Main Branch": "PANGKAL PINANG",
       "Login MTD": "17",
       "Login DTD": "Y",
@@ -4198,13 +4199,13 @@
       "AVG Call ": " 0.8 ",
       "AVG Visit": " 0.9 ",
       "Avg KPI YTD": "41.56%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20121377",
-      "Nama ": "Ricci Putri Pratiwi",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Ricci Putri Pratiwi",
+      "Position": "RM Prioritas",
       "Main Branch": "PANGKAL PINANG",
       "Login MTD": "15",
       "Login DTD": "Y",
@@ -4213,13 +4214,13 @@
       "AVG Call ": " 1.6 ",
       "AVG Visit": " 3.2 ",
       "Avg KPI YTD": "73.13%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20210121",
-      "Nama ": "Adelia Sundari",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Adelia Sundari",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP TANJUNG PANDAN",
       "Login MTD": "1",
       "Login DTD": "N",
@@ -4228,13 +4229,13 @@
       "AVG Call ": " 0.2 ",
       "AVG Visit": " -   ",
       "Avg KPI YTD": "36.81%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20240023",
-      "Nama ": "Yogi Firdiansyah",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Yogi Firdiansyah",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP SUNGAILIAT",
       "Login MTD": "5",
       "Login DTD": "N",
@@ -4243,13 +4244,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 1.2 ",
       "Avg KPI YTD": "38.67%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220258",
-      "Nama ": "Putri Septiani",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Putri Septiani",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP KOBA",
       "Login MTD": "13",
       "Login DTD": "Y",
@@ -4258,13 +4259,13 @@
       "AVG Call ": " 1.9 ",
       "AVG Visit": " 2.8 ",
       "Avg KPI YTD": "98.28%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20170224",
-      "Nama ": "Fahruzi Alfani",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Fahruzi Alfani",
+      "Position": "RM Consumer",
       "Main Branch": "PADANG",
       "Login MTD": "16",
       "Login DTD": "N",
@@ -4273,13 +4274,13 @@
       "AVG Call ": " 8.8 ",
       "AVG Visit": " 2.2 ",
       "Avg KPI YTD": "53.29%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20110273",
-      "Nama ": "Dodis Baikal",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Dodis Baikal",
+      "Position": "RM Consumer",
       "Main Branch": "PADANG",
       "Login MTD": "17",
       "Login DTD": "Y",
@@ -4288,13 +4289,13 @@
       "AVG Call ": " 8.0 ",
       "AVG Visit": " 2.7 ",
       "Avg KPI YTD": "51.28%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20100063",
-      "Nama ": "Evi Rozana",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Evi Rozana",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "PADANG",
       "Login MTD": "12",
       "Login DTD": "Y",
@@ -4303,13 +4304,13 @@
       "AVG Call ": " 7.7 ",
       "AVG Visit": " 2.9 ",
       "Avg KPI YTD": "58.84%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20170727",
-      "Nama ": "Lan Lan Awaludin",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Lan Lan Awaludin",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "PADANG",
       "Login MTD": "16",
       "Login DTD": "Y",
@@ -4318,13 +4319,13 @@
       "AVG Call ": " 8.3 ",
       "AVG Visit": " 2.6 ",
       "Avg KPI YTD": "70.65%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20170931",
-      "Nama ": "Rosa Hidayah",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Rosa Hidayah",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "PADANG",
       "Login MTD": "17",
       "Login DTD": "Y",
@@ -4333,13 +4334,13 @@
       "AVG Call ": " 8.5 ",
       "AVG Visit": " 2.5 ",
       "Avg KPI YTD": "61.23%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20050099",
-      "Nama ": "Vionna Aprillia",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Vionna Aprillia",
+      "Position": "RM Prioritas",
       "Main Branch": "PADANG",
       "Login MTD": "16",
       "Login DTD": "Y",
@@ -4348,13 +4349,13 @@
       "AVG Call ": " 8.3 ",
       "AVG Visit": " 3.1 ",
       "Avg KPI YTD": "37.23%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20060078",
-      "Nama ": "Arhadi Putera",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Arhadi Putera",
+      "Position": "RM Consumer",
       "Main Branch": "KCP SOLOK",
       "Login MTD": "15",
       "Login DTD": "Y",
@@ -4363,13 +4364,13 @@
       "AVG Call ": " 1.2 ",
       "AVG Visit": " 0.8 ",
       "Avg KPI YTD": "28.12%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20140792",
-      "Nama ": "Nadia Utika Putri",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Nadia Utika Putri",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP BUKITTINGGI",
       "Login MTD": "14",
       "Login DTD": "N",
@@ -4378,13 +4379,13 @@
       "AVG Call ": " 0.6 ",
       "AVG Visit": " 1.5 ",
       "Avg KPI YTD": "89.04%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20100383",
-      "Nama ": "Hendra Putra",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Hendra Putra",
+      "Position": "RM Consumer",
       "Main Branch": "KCP PAYAKUMBUH",
       "Login MTD": "16",
       "Login DTD": "N",
@@ -4393,13 +4394,13 @@
       "AVG Call ": " 0.8 ",
       "AVG Visit": " 2.8 ",
       "Avg KPI YTD": "68.22%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20070085",
-      "Nama ": "Riza Yumeri",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Riza Yumeri",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP PAYAKUMBUH",
       "Login MTD": "16",
       "Login DTD": "N",
@@ -4408,13 +4409,13 @@
       "AVG Call ": " 1.5 ",
       "AVG Visit": " 2.1 ",
       "Avg KPI YTD": "96.10%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20140796",
-      "Nama ": "Lusio Eka Fitri",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Lusio Eka Fitri",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP SOLOK",
       "Login MTD": "12",
       "Login DTD": "N",
@@ -4423,13 +4424,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 3.4 ",
       "Avg KPI YTD": "49.20%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20030071",
-      "Nama ": "Dian Novera",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Dian Novera",
+      "Position": "RM Consumer",
       "Main Branch": "BENGKULU",
       "Login MTD": "14",
       "Login DTD": "Y",
@@ -4438,13 +4439,13 @@
       "AVG Call ": " 0.9 ",
       "AVG Visit": " 2.5 ",
       "Avg KPI YTD": "51.75%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20100184",
-      "Nama ": "Dadang Muhamad Soleh",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Dadang Muhamad Soleh",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "BENGKULU",
       "Login MTD": "16",
       "Login DTD": "Y",
@@ -4453,13 +4454,13 @@
       "AVG Call ": " 12.3 ",
       "AVG Visit": " 2.1 ",
       "Avg KPI YTD": "45.79%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20140300",
-      "Nama ": "Meki Junaidi",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Meki Junaidi",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "BENGKULU",
       "Login MTD": "12",
       "Login DTD": "Y",
@@ -4468,13 +4469,13 @@
       "AVG Call ": " 4.3 ",
       "AVG Visit": " 1.9 ",
       "Avg KPI YTD": "0.00%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20130582",
-      "Nama ": "Septri Utami",
-      "Posisi ": "RM Prioritas",
+      "Marketing Name": "Septri Utami",
+      "Position": "RM Prioritas",
       "Main Branch": "BENGKULU",
       "Login MTD": "5",
       "Login DTD": "N",
@@ -4483,13 +4484,13 @@
       "AVG Call ": " 0.1 ",
       "AVG Visit": " 1.1 ",
       "Avg KPI YTD": "92.89%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20130115",
-      "Nama ": "Destia Gita",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Destia Gita",
+      "Position": "RM Consumer",
       "Main Branch": "KCP CURUP",
       "Login MTD": "14",
       "Login DTD": "N",
@@ -4498,13 +4499,13 @@
       "AVG Call ": " 9.1 ",
       "AVG Visit": " 2.2 ",
       "Avg KPI YTD": "112.11%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20140299",
-      "Nama ": "Diah permata sari",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Diah permata sari",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP CURUP",
       "Login MTD": "17",
       "Login DTD": "Y",
@@ -4513,13 +4514,13 @@
       "AVG Call ": " 9.5 ",
       "AVG Visit": " 2.1 ",
       "Avg KPI YTD": "89.20%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20180564",
-      "Nama ": "Dittia Rahma",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Dittia Rahma",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "JAMBI",
       "Login MTD": "14",
       "Login DTD": "N",
@@ -4528,13 +4529,13 @@
       "AVG Call ": " 7.6 ",
       "AVG Visit": " 1.6 ",
       "Avg KPI YTD": "60.66%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20250053",
-      "Nama ": "WINDA FARDANI",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "WINDA FARDANI",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP MUARA BUNGO",
       "Login MTD": "11",
       "Login DTD": "Y",
@@ -4543,13 +4544,13 @@
       "AVG Call ": " 0.6 ",
       "AVG Visit": " 1.2 ",
       "Avg KPI YTD": "0.00%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20120924",
-      "Nama ": "Ramang Febri Atmaja",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Ramang Febri Atmaja",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP MANNA BENGKULU",
       "Login MTD": "14",
       "Login DTD": "Y",
@@ -4558,13 +4559,13 @@
       "AVG Call ": " 1.2 ",
       "AVG Visit": " 3.1 ",
       "Avg KPI YTD": "58.52%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220354",
-      "Nama ": "Violani Piranti",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Violani Piranti",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP ARGA MAKMUR",
       "Login MTD": "14",
       "Login DTD": "Y",
@@ -4573,13 +4574,13 @@
       "AVG Call ": " 5.2 ",
       "AVG Visit": " 2.5 ",
       "Avg KPI YTD": "81.30%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20190003",
-      "Nama ": "Ade Haslilasari",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Ade Haslilasari",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "MEDAN BARU",
       "Login MTD": "14",
       "Login DTD": "Y",
@@ -4588,13 +4589,13 @@
       "AVG Call ": " -   ",
       "AVG Visit": " 2.9 ",
       "Avg KPI YTD": "51.45%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20140194",
-      "Nama ": "Rika Rehmintha",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Rika Rehmintha",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "KCP KISARAN",
       "Login MTD": "15",
       "Login DTD": "Y",
@@ -4603,13 +4604,13 @@
       "AVG Call ": " 2.7 ",
       "AVG Visit": " 2.0 ",
       "Avg KPI YTD": "38.74%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230351",
-      "Nama ": "Helsa Fakhira Kusnadi",
-      "Posisi ": "RM Consumer",
+      "Marketing Name": "Helsa Fakhira Kusnadi",
+      "Position": "RM Consumer",
       "Main Branch": "MEDAN BARU",
       "Login MTD": "16",
       "Login DTD": "N",
@@ -4618,13 +4619,13 @@
       "AVG Call ": " 0.5 ",
       "AVG Visit": " 1.8 ",
       "Avg KPI YTD": "50.44%",
-      "Insentif": "N"
+      "Incentive": "N"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20140677",
-      "Nama ": "Al Adly Adriansyah Pp",
-      "Posisi ": "RM Funding & Hajj",
+      "Marketing Name": "Al Adly Adriansyah Pp",
+      "Position": "RM Funding & Hajj",
       "Main Branch": "MEDAN BARU",
       "Login MTD": "17",
       "Login DTD": "Y",
@@ -4633,13 +4634,13 @@
       "AVG Call ": " 0.1 ",
       "AVG Visit": " 2.5 ",
       "Avg KPI YTD": "115.61%",
-      "Insentif": "Y"
+      "Incentive": "Y"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20210144",
-      "Nama ": "Dimas Tri Soufi",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Dimas Tri Soufi",
+      "Position": "CS Reguler",
       "Main Branch": "MEDAN BALAIKOTA",
       "Login MTD": "10",
       "Login DTD": "N",
@@ -4650,10 +4651,10 @@
       "Avg KPI YTD": "73.68%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220154",
-      "Nama ": "Muhammad Fahri Siregar",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Muhammad Fahri Siregar",
+      "Position": "CS Reguler",
       "Main Branch": "MEDAN BALAIKOTA",
       "Login MTD": "1",
       "Login DTD": "N",
@@ -4664,10 +4665,10 @@
       "Avg KPI YTD": "0.00%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230572",
-      "Nama ": "Muhammad Wahyu Afdika",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Muhammad Wahyu Afdika",
+      "Position": "CS Reguler",
       "Main Branch": "KCP SUKARAMAI",
       "Login MTD": "4",
       "Login DTD": "Y",
@@ -4678,10 +4679,10 @@
       "Avg KPI YTD": "83.46%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220661",
-      "Nama ": "Indi Fadillah Sari",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Indi Fadillah Sari",
+      "Position": "CS Reguler",
       "Main Branch": "KCP SERDANG",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -4692,10 +4693,10 @@
       "Avg KPI YTD": "0.00%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20210033",
-      "Nama ": "Winda Lestari",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Winda Lestari",
+      "Position": "CS Reguler",
       "Main Branch": "PADANG SIDEMPUAN",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -4706,10 +4707,10 @@
       "Avg KPI YTD": "91.26%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20240377",
-      "Nama ": "Imelda Suciadewi",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Imelda Suciadewi",
+      "Position": "CS Reguler",
       "Main Branch": "KCP PANYABUNGAN",
       "Login MTD": "0",
       "Login DTD": "Y",
@@ -4720,10 +4721,10 @@
       "Avg KPI YTD": "0.00%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20240445",
-      "Nama ": "Felian Nabila",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Felian Nabila",
+      "Position": "CS Reguler",
       "Main Branch": "PEKANBARU",
       "Login MTD": "17",
       "Login DTD": "N",
@@ -4734,10 +4735,10 @@
       "Avg KPI YTD": "0.00%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20240254",
-      "Nama ": "Wahyu Abdi",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Wahyu Abdi",
+      "Position": "CS Reguler",
       "Main Branch": "PEKANBARU",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -4748,10 +4749,10 @@
       "Avg KPI YTD": "77.86%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20240450",
-      "Nama ": "Zhie Zie Zettira Multazimah",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Zhie Zie Zettira Multazimah",
+      "Position": "CS Reguler",
       "Main Branch": "KCP KAMPAR",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -4762,10 +4763,10 @@
       "Avg KPI YTD": "0.00%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20240410",
-      "Nama ": "Eka Indah Suprapti Ningsih",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Eka Indah Suprapti Ningsih",
+      "Position": "CS Reguler",
       "Main Branch": "BATAM",
       "Login MTD": "14",
       "Login DTD": "N",
@@ -4776,10 +4777,10 @@
       "Avg KPI YTD": "0.00%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20130158",
-      "Nama ": "Hadrian Aris",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Hadrian Aris",
+      "Position": "CS Reguler",
       "Main Branch": "TANJUNG PINANG",
       "Login MTD": "1",
       "Login DTD": "N",
@@ -4790,10 +4791,10 @@
       "Avg KPI YTD": "72.72%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220158",
-      "Nama ": "Yunda Sufni",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Yunda Sufni",
+      "Position": "CS Reguler",
       "Main Branch": "BANDA ACEH",
       "Login MTD": "7",
       "Login DTD": "N",
@@ -4804,10 +4805,10 @@
       "Avg KPI YTD": "69.90%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230090",
-      "Nama ": "T. Ilham Khaliq",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "T. Ilham Khaliq",
+      "Position": "CS Reguler",
       "Main Branch": "BANDA ACEH",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -4818,10 +4819,10 @@
       "Avg KPI YTD": "80.55%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230614",
-      "Nama ": "Septia Mulia Hadana",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Septia Mulia Hadana",
+      "Position": "CS Reguler",
       "Main Branch": "LANGSA",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -4832,10 +4833,10 @@
       "Avg KPI YTD": "81.65%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230030",
-      "Nama ": "Hami Rantina",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Hami Rantina",
+      "Position": "CS Reguler",
       "Main Branch": "LAMPUNG",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -4846,10 +4847,10 @@
       "Avg KPI YTD": "71.86%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230390",
-      "Nama ": "Galang Syahputra",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Galang Syahputra",
+      "Position": "CS Reguler",
       "Main Branch": "LAMPUNG",
       "Login MTD": "16",
       "Login DTD": "N",
@@ -4860,10 +4861,10 @@
       "Avg KPI YTD": "64.72%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220322",
-      "Nama ": "Abdul Syaib Hasibuan",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Abdul Syaib Hasibuan",
+      "Position": "CS Reguler",
       "Main Branch": "KCP BANDAR JAYA",
       "Login MTD": "0",
       "Login DTD": "Y",
@@ -4874,10 +4875,10 @@
       "Avg KPI YTD": "96.00%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230086",
-      "Nama ": "Hendri Prayoga",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Hendri Prayoga",
+      "Position": "CS Reguler",
       "Main Branch": "KCP METRO LAMPUNG",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -4888,10 +4889,10 @@
       "Avg KPI YTD": "92.24%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220095",
-      "Nama ": "Dhani Murtadho",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Dhani Murtadho",
+      "Position": "CS Reguler",
       "Main Branch": "KCP ZA PAGAR ALAM LAMPUNG",
       "Login MTD": "0",
       "Login DTD": "Y",
@@ -4902,10 +4903,10 @@
       "Avg KPI YTD": "85.22%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20200213",
-      "Nama ": "Viki Muhammad Sukron",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Viki Muhammad Sukron",
+      "Position": "CS Reguler",
       "Main Branch": "KCP KOTABUMI LAMPUNG",
       "Login MTD": "12",
       "Login DTD": "N",
@@ -4916,10 +4917,10 @@
       "Avg KPI YTD": "114.86%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20250008",
-      "Nama ": "Munzila Febi Aulia",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Munzila Febi Aulia",
+      "Position": "CS Reguler",
       "Main Branch": "PALEMBANG",
       "Login MTD": "1",
       "Login DTD": "N",
@@ -4930,10 +4931,10 @@
       "Avg KPI YTD": "0.00%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20210165",
-      "Nama ": "Zanariah",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Zanariah",
+      "Position": "CS Reguler",
       "Main Branch": "KCP PLAJU",
       "Login MTD": "4",
       "Login DTD": "Y",
@@ -4944,10 +4945,10 @@
       "Avg KPI YTD": "70.22%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230076",
-      "Nama ": "Firsta Adela",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Firsta Adela",
+      "Position": "CS Reguler",
       "Main Branch": "KCP BATURAJA",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -4958,10 +4959,10 @@
       "Avg KPI YTD": "80.10%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230270",
-      "Nama ": "Ayu Nidia",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Ayu Nidia",
+      "Position": "CS Reguler",
       "Main Branch": "KCP ENIM",
       "Login MTD": "10",
       "Login DTD": "N",
@@ -4972,10 +4973,10 @@
       "Avg KPI YTD": "73.82%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230310",
-      "Nama ": "Hamidah Siffa Garishah",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Hamidah Siffa Garishah",
+      "Position": "CS Reguler",
       "Main Branch": "PANGKAL PINANG",
       "Login MTD": "4",
       "Login DTD": "N",
@@ -4986,10 +4987,10 @@
       "Avg KPI YTD": "105.63%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20240065",
-      "Nama ": "Melisa Nurmaulina",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Melisa Nurmaulina",
+      "Position": "CS Reguler",
       "Main Branch": "PANGKAL PINANG",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -5000,10 +5001,10 @@
       "Avg KPI YTD": "114.60%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230372",
-      "Nama ": "Nisa Pratami",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Nisa Pratami",
+      "Position": "CS Reguler",
       "Main Branch": "KCP TANJUNG PANDAN",
       "Login MTD": "10",
       "Login DTD": "N",
@@ -5014,10 +5015,10 @@
       "Avg KPI YTD": "79.96%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230360",
-      "Nama ": "Silpita Maras Tika",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Silpita Maras Tika",
+      "Position": "CS Reguler",
       "Main Branch": "KCP SUNGAILIAT",
       "Login MTD": "2",
       "Login DTD": "N",
@@ -5028,10 +5029,10 @@
       "Avg KPI YTD": "104.17%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220167",
-      "Nama ": "Morin Oktavia",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Morin Oktavia",
+      "Position": "CS Reguler",
       "Main Branch": "KCP KOBA",
       "Login MTD": "17",
       "Login DTD": "Y",
@@ -5042,10 +5043,10 @@
       "Avg KPI YTD": "99.45%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20110436",
-      "Nama ": "Debby Narita",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Debby Narita",
+      "Position": "CS Reguler",
       "Main Branch": "PADANG",
       "Login MTD": "10",
       "Login DTD": "N",
@@ -5056,10 +5057,10 @@
       "Avg KPI YTD": "96.08%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20240298",
-      "Nama ": "Hesty Yuliana Putri",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Hesty Yuliana Putri",
+      "Position": "CS Reguler",
       "Main Branch": "KCP BUKITTINGGI",
       "Login MTD": "1",
       "Login DTD": "N",
@@ -5070,10 +5071,10 @@
       "Avg KPI YTD": "74.03%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230431",
-      "Nama ": "Muftiathul Huda",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Muftiathul Huda",
+      "Position": "CS Reguler",
       "Main Branch": "KCP PAYAKUMBUH",
       "Login MTD": "3",
       "Login DTD": "Y",
@@ -5084,10 +5085,10 @@
       "Avg KPI YTD": "84.41%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230256",
-      "Nama ": "Inayah",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Inayah",
+      "Position": "CS Reguler",
       "Main Branch": "KCP SOLOK",
       "Login MTD": "8",
       "Login DTD": "Y",
@@ -5098,10 +5099,10 @@
       "Avg KPI YTD": "79.12%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220485",
-      "Nama ": "Mahmud Pralianto",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Mahmud Pralianto",
+      "Position": "CS Reguler",
       "Main Branch": "BENGKULU",
       "Login MTD": "2",
       "Login DTD": "N",
@@ -5112,10 +5113,10 @@
       "Avg KPI YTD": "83.24%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20121880",
-      "Nama ": "Novita Sari",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Novita Sari",
+      "Position": "CS Reguler",
       "Main Branch": "BENGKULU",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -5126,10 +5127,10 @@
       "Avg KPI YTD": ""
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20240257",
-      "Nama ": "Alif Nur Rohman",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Alif Nur Rohman",
+      "Position": "CS Reguler",
       "Main Branch": "JAMBI",
       "Login MTD": "6",
       "Login DTD": "Y",
@@ -5140,10 +5141,10 @@
       "Avg KPI YTD": "77.52%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230574",
-      "Nama ": "Anggreini Larasati Subarno",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Anggreini Larasati Subarno",
+      "Position": "CS Reguler",
       "Main Branch": "KCP MUARA BUNGO",
       "Login MTD": "5",
       "Login DTD": "N",
@@ -5154,10 +5155,10 @@
       "Avg KPI YTD": "100.82%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220306",
-      "Nama ": "Ika Nurfatimah",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Ika Nurfatimah",
+      "Position": "CS Reguler",
       "Main Branch": "KCP MANNA BENGKULU",
       "Login MTD": "10",
       "Login DTD": "Y",
@@ -5168,10 +5169,10 @@
       "Avg KPI YTD": "78.38%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20250032",
-      "Nama ": "DESTIANA DWI ANGGREINI",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "DESTIANA DWI ANGGREINI",
+      "Position": "CS Reguler",
       "Main Branch": "KCP ARGA MAKMUR",
       "Login MTD": "1",
       "Login DTD": "N",
@@ -5182,10 +5183,10 @@
       "Avg KPI YTD": "0.00%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230131",
-      "Nama ": "Wiki Lia Rahmadani",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Wiki Lia Rahmadani",
+      "Position": "CS Reguler",
       "Main Branch": "KCP BINJAI",
       "Login MTD": "9",
       "Login DTD": "N",
@@ -5196,10 +5197,10 @@
       "Avg KPI YTD": "97.38%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20240314",
-      "Nama ": "Aulia Fadillah Yusri",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Aulia Fadillah Yusri",
+      "Position": "CS Reguler",
       "Main Branch": "PEMATANG SIANTAR",
       "Login MTD": "7",
       "Login DTD": "N",
@@ -5210,10 +5211,10 @@
       "Avg KPI YTD": "0.00%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20220650",
-      "Nama ": "Liza Nattasya M",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Liza Nattasya M",
+      "Position": "CS Reguler",
       "Main Branch": "KCP KISARAN",
       "Login MTD": "1",
       "Login DTD": "N",
@@ -5224,10 +5225,10 @@
       "Avg KPI YTD": "86.91%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230408",
-      "Nama ": "Aldha Rianza Putri",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Aldha Rianza Putri",
+      "Position": "CS Reguler",
       "Main Branch": "KCP STABAT",
       "Login MTD": "0",
       "Login DTD": "N",
@@ -5238,10 +5239,10 @@
       "Avg KPI YTD": "85.65%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230130",
-      "Nama ": "Feby Aulya Wardani",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Feby Aulya Wardani",
+      "Position": "CS Reguler",
       "Main Branch": "MEDAN BARU",
       "Login MTD": "12",
       "Login DTD": "N",
@@ -5252,10 +5253,10 @@
       "Avg KPI YTD": "68.75%"
     },
     {
-      "Periode": "25 Mar 2025",
+      "Period": "25 Mar 2025",
       "NIK": "20230526",
-      "Nama ": "Halwa Salsabila Tandra",
-      "Posisi ": "CS Reguler",
+      "Marketing Name": "Halwa Salsabila Tandra",
+      "Position": "CS Reguler",
       "Main Branch": "MEDAN BARU",
       "Login MTD": "16",
       "Login DTD": "N",
@@ -5266,3 +5267,4 @@
       "Avg KPI YTD": "68.06%"
     }
   ]
+}
