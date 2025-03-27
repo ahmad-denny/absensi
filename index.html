@@ -233,8 +233,6 @@
             <select id="periodeFilter" onchange="filterAndSearchTable()">
                 <option value="">All Period</option>
             </select>
-            <input type="checkbox" id="mtdZero" name="checkbox1" value="0">
-            <label for="checkbox1">Not Login DTD</label>
             <button class="reset-btn" onclick="resetFilter()">Reset</button>
         </div>
 
@@ -281,8 +279,7 @@
             const tableBody = document.getElementById('tableBody');
             const branchFilter = document.getElementById('branchFilter');
             const periodeFilter = document.getElementById('periodeFilter');
-            const mtdZeroFilter = document.getElementById('mtdZero');
-            
+                        
             tableHead.innerHTML = '';
             tableBody.innerHTML = '';
             tableData = [];
@@ -344,8 +341,7 @@
             const positionValue = document.getElementById('positionFilter').value.toLowerCase();
             const branchValue = document.getElementById('branchFilter').value.toLowerCase();
             const periodeValue = document.getElementById('periodeFilter').value.toLowerCase();
-            const zeroMTDValue = document.getElementById('mtdZero').value.toLowerCase();
-
+            
             document.getElementById('tableBody').querySelectorAll('tr').forEach(row => {
                 let cells = row.getElementsByTagName('td');
 
@@ -356,7 +352,7 @@
                 let positionMatch = positionValue === "" || cells[3].textContent.trim().toLowerCase().includes(positionValue);
                 let branchMatch = branchValue === "" || cells[4].textContent.toLowerCase() === branchValue;
                 let periodeMatch = periodeValue === "" || cells[0].textContent.toLowerCase() === periodeValue;
-                let periodeMatch = zeroMTDValue === "" || cells[5].textContent.toLowerCase() === zeroMTDValue;
+                
 
                 if (nameMarketingMatch && positionMatch && branchMatch && periodeMatch) {
                     row.style.display = "";
