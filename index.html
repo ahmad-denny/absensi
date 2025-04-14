@@ -321,13 +321,22 @@
                     periods.add(row['Period']);
                 });
 
-                updateFilterOptions(branchFilter, branches);
-                updateFilterOptions(periodeFilter, periods);
+                updateFilterOptions1(branchFilter, branches);
+                updateFilterOptions2(periodeFilter, periods);
             }
         }
 
-        function updateFilterOptions(filterElement, values) {
-            filterElement.innerHTML = '<option value="">All</option>';
+        function updateFilterOptions1(filterElement, values) {
+            filterElement.innerHTML = '<option value="">All Branch</option>';
+            values.forEach(value => {
+                let option = document.createElement('option');
+                option.value = value;
+                option.textContent = value;
+                filterElement.appendChild(option);
+            });
+        }
+        function updateFilterOptions2(filterElement, values) {
+            filterElement.innerHTML = '<option value="">All Period</option>';
             values.forEach(value => {
                 let option = document.createElement('option');
                 option.value = value;
