@@ -244,7 +244,6 @@
                 <option value="">All Period</option>
             </select>
             <button class="reset-btn" onclick="resetFilter()">Reset</button>
-            <p id="time-date"></p>
         </div>
 
         <div class="table-container">
@@ -264,7 +263,7 @@
             const now = new Date();
             const time = now.toLocaleTimeString('id-ID', { hour: '2-digit', minute: '2-digit', second: "2-digit" });
             const date = now.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
-            /*document.getElementById("time-date").innerHTML = `${date} | ${time} WIB`; */
+            document.getElementById("time-date").innerHTML = `${date} | ${time} WIB`; 
         }
         setInterval(updateTimeDate, 1000); // Update every second
         updateTimeDate(); // Initial update
