@@ -78,6 +78,13 @@
             border-radius: 5px;
         }
 
+        h3 {
+            text-align: right;
+            font-size: 13px;
+            font-style: italic;
+            font-weight: lighter;
+        }        
+        
         #filterContainer {
             display: block; /* Default tampil */
             transition: all 0.3s ease;
@@ -237,6 +244,7 @@
                 <option value="">All Period</option>
             </select>
             <button class="reset-btn" onclick="resetFilter()">Reset</button>
+            <h3><p id="time-date"></p></h3>
         </div>
 
         <div class="table-container">
@@ -251,7 +259,15 @@
     </div>
 
     <script>
-
+        function updateTimeDate() {
+            const now = new Date();
+            const time = now.toLocaleTimeString('id-ID', { hour: '2-digit', minute: '2-digit', second: "2-digit" });
+            const date = now.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+            document.getElementById("time-date").innerHTML = `${date} | ${time} WIB`; 
+            }
+        setInterval(updateTimeDate, 1000); // Update every second
+        updateTimeDate(); // Initial update
+        
         document.addEventListener("DOMContentLoaded", function() {
             let today = new Date();
             let formattedDate = today.toLocaleDateString("id-ID", { 
