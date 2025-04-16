@@ -55,7 +55,7 @@
             align-items: center;
             background-color: purple;
             color: white;
-            padding: 10px;
+            padding: 20px;
             border-radius: 8px;
             text-align: center;
             font-weight: bold;
@@ -63,6 +63,13 @@
 
         .h1 {
             margin:0cm;
+        }
+    
+        h3 {
+            text-align: right;
+            font-size: 13px;
+            font-style: italic;
+            font-weight: lighter;
         }
 
         .logo {
@@ -78,13 +85,6 @@
             border-radius: 5px;
         }
 
-        h3 {
-            text-align: right;
-            font-size: 13px;
-            font-style: italic;
-            font-weight: lighter;
-        }        
-        
         #filterContainer {
             display: block; /* Default tampil */
             transition: all 0.3s ease;
@@ -108,7 +108,7 @@
         .filter-container {
             display: flex;
             flex-wrap: wrap;
-            justify-content: space-between;
+            /*justify-content: space-between;*/
             align-items: center;
             gap: 10px;
             padding: 15px;
@@ -191,6 +191,7 @@
         }
 
         .print-btn {
+            margin-top: 20px;
             text-align: left;
             background: #28a745;
             color: white;
@@ -225,7 +226,7 @@
             <img src="img/logo_mdirect.png" alt="Bank Muamalat Logo" class="logo">
         </h1>
 
-        <h2>M-Direct Performances</h2>
+        <h2>M-Direct Performances</h2> 
 
         <div class="filter-container">
             <input type="text" id="searchBox" placeholder="Name or Marketing Code..." onkeyup="filterAndSearchTable()">
@@ -243,7 +244,18 @@
             <select id="periodeFilter" onchange="filterAndSearchTable()">
                 <option value="">All Period</option>
             </select>
+            <select id="zeroMTDFilter" onchange="filterAndSearchTable()">
+                <option value="">Login MTD</option>
+                <option value="0">NOT Login MTD</option>            
+            </select>
+            <select id="zeroDTDFilter" onchange="filterAndSearchTable()">
+                <option value="">Login DTD</option>
+                <option value="N">NOT Login DTD</option>            
+            </select>
             <button class="reset-btn" onclick="resetFilter()">Reset</button>
+            <h3><p id="time-date"></p></h3>
+            
+
         </div>
 
         <div class="table-container">
@@ -256,18 +268,19 @@
         </div>       
     <br>    
     </div>
+    <button class="print-btn" onclick="printTable()">Print / Save PDF</button>
 
     <script>
-        function updateTimeDate() 
-        {
+        
+        function updateTimeDate() {
             const now = new Date();
             const time = now.toLocaleTimeString('id-ID', { hour: '2-digit', minute: '2-digit', second: "2-digit" });
             const date = now.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
             document.getElementById("time-date").innerHTML = `${date} | ${time} WIB`; 
-        }
+            }
         setInterval(updateTimeDate, 1000); // Update every second
         updateTimeDate(); // Initial update
-        
+
         document.addEventListener("DOMContentLoaded", function() {
             let today = new Date();
             let formattedDate = today.toLocaleDateString("id-ID", { 
@@ -297,6 +310,8 @@
             const tableBody = document.getElementById('tableBody');
             const branchFilter = document.getElementById('branchFilter');
             const periodeFilter = document.getElementById('periodeFilter');
+            const zeroMTDFilter = document.getElementById('zeroMTDFilter');
+            const zeroDTDFilter = document.getElementById('zeroDTDFilter');
                         
             tableHead.innerHTML = '';
             tableBody.innerHTML = '';
@@ -368,7 +383,9 @@
             const positionValue = document.getElementById('positionFilter').value.toLowerCase();
             const branchValue = document.getElementById('branchFilter').value.toLowerCase();
             const periodeValue = document.getElementById('periodeFilter').value.toLowerCase();
-            
+            const zeroMTDValue = document.getElementById('zeroMTDFilter').value.toLowerCase();
+            const zeroDTDValue = document.getElementById('zeroDTDFilter').value.toLowerCase();
+
             document.getElementById('tableBody').querySelectorAll('tr').forEach(row => {
                 let cells = row.getElementsByTagName('td');
 
@@ -378,10 +395,11 @@
 
                 let positionMatch = positionValue === "" || cells[3].textContent.trim().toLowerCase().includes(positionValue);
                 let branchMatch = branchValue === "" || cells[4].textContent.toLowerCase() === branchValue;
-                let periodeMatch = periodeValue === "" || cells[0].textContent.toLowerCase() === periodeValue;
-                
+                let periodeMatch = periodeValue === "" || cells[0].textContent.toLowerCase() === periodeValue;             
+                let zeroMTDMatch = zeroMTDValue === "" || cells[5].textContent.toLowerCase() === zeroMTDValue;             
+                let zeroDTDMatch = zeroDTDValue === "" || cells[6].textContent.toLowerCase() === zeroDTDValue;             
 
-                if (nameMarketingMatch && positionMatch && branchMatch && periodeMatch) {
+                if (nameMarketingMatch && positionMatch && branchMatch && periodeMatch && zeroMTDMatch && zeroDTDMatch) {
                     row.style.display = "";
                 } else {
                     row.style.display = "none";
@@ -393,6 +411,8 @@
             document.getElementById('positionFilter').value = "";
             document.getElementById('branchFilter').value = "";
             document.getElementById('periodeFilter').value = "";
+            document.getElementById('zeroMTDFilter').value = "";
+            document.getElementById('zeroDTDFilter').value = "";            
             filterAndSearchTable();
         }
 
@@ -400,11 +420,11 @@
             let tableContent = document.getElementById("dataTable").outerHTML;
             let originalContent = document.body.innerHTML;
         
-            document.body.innerHTML = "<h2>Employee's M-Direct Performances</h2>" + tableContent; 
+            document.body.innerHTML = "<h1>M-Direct <i>as of " + document.getElementById('periodeFilter').value.toLowerCase() + 
+                "</i></h1>" + tableContent; 
             window.print(); 
             document.body.innerHTML = originalContent; 
         }
-        
     </script>
 </body>
 </html>
