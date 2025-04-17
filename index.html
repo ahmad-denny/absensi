@@ -302,8 +302,6 @@
             const tableBody = document.getElementById('tableBody');
             const branchFilter = document.getElementById('branchFilter');
             const periodeFilter = document.getElementById('periodeFilter');
-            const zeroMTDFilter = document.getElementById('zeroMTDFilter');
-            const zeroDTDFilter = document.getElementById('zeroDTDFilter');
                         
             tableHead.innerHTML = '';
             tableBody.innerHTML = '';
@@ -375,8 +373,6 @@
             const positionValue = document.getElementById('positionFilter').value.toLowerCase();
             const branchValue = document.getElementById('branchFilter').value.toLowerCase();
             const periodeValue = document.getElementById('periodeFilter').value.toLowerCase();
-            const zeroMTDValue = document.getElementById('zeroMTDFilter').value.toLowerCase();
-            const zeroDTDValue = document.getElementById('zeroDTDFilter').value.toLowerCase();
 
             document.getElementById('tableBody').querySelectorAll('tr').forEach(row => {
                 let cells = row.getElementsByTagName('td');
@@ -388,8 +384,6 @@
                 let positionMatch = positionValue === "" || cells[3].textContent.trim().toLowerCase().includes(positionValue);
                 let branchMatch = branchValue === "" || cells[4].textContent.toLowerCase() === branchValue;
                 let periodeMatch = periodeValue === "" || cells[0].textContent.toLowerCase() === periodeValue;             
-                let zeroMTDMatch = zeroMTDValue === "" || cells[5].textContent.toLowerCase() === zeroMTDValue;             
-                let zeroDTDMatch = zeroDTDValue === "" || cells[6].textContent.toLowerCase() === zeroDTDValue;             
 
                 if (nameMarketingMatch && positionMatch && branchMatch && periodeMatch) {
                     row.style.display = "";
@@ -403,8 +397,6 @@
             document.getElementById('positionFilter').value = "";
             document.getElementById('branchFilter').value = "";
             document.getElementById('periodeFilter').value = "";
-            document.getElementById('zeroMTDFilter').value = "";
-            document.getElementById('zeroDTDFilter').value = "";            
             filterAndSearchTable();
         }
 
