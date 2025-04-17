@@ -244,6 +244,14 @@
             <select id="periodeFilter" onchange="filterAndSearchTable()">
                 <option value="">All Period</option>
             </select>
+            <select id="zeroMTDFilter" onchange="filterAndSearchTable()">
+                <option value="">Login MTD</option>
+                <option value="0">NOT Login MTD</option>            
+            </select>
+            <select id="zeroDTDFilter" onchange="filterAndSearchTable()">
+                <option value="">Login DTD</option>
+                <option value="N">NOT Login DTD</option>            
+            </select>
             <button class="reset-btn" onclick="resetFilter()">Reset</button>
             <h3><p id="time-date"></p></h3>
             
