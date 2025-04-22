@@ -334,9 +334,8 @@
                     }
         
                     let loginDTDCell = tr.cells[6];  
-                    if (loginDTDCell.textContent === "N") {
-                        loginDTDCell.classList.add("highlight-red");
-                    }
+                    if (loginDTDCell.textContent === "Y") loginDTDCell.classList.add("highlight-yes");
+                    else if (loginDTDCell.textContent === "N") loginDTDCell.classList.add("highlight-no");
 
                     tableBody.appendChild(tr);
                     tableData.push(row);
