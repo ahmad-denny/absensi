@@ -268,6 +268,7 @@
         </div>       
     <br>    
     </div>
+    <button class="print-btn" onclick="printTable()">Print / Save PDF</button>
 
     <script>
         
@@ -333,9 +334,9 @@
                         tr.appendChild(td);
                     });
 
-                    let lastCell = tr.cells[tr.cells.length - 1];
-                    if (lastCell.textContent === "Y") lastCell.classList.add("highlight-yes");
-                    else if (lastCell.textContent === "N") lastCell.classList.add("highlight-no");
+                    //let lastCell = tr.cells[tr.cells.length - 1];
+                    //if (lastCell.textContent === "Y") lastCell.classList.add("highlight-yes");
+                    //else if (lastCell.textContent === "N") lastCell.classList.add("highlight-no");
 
                     let loginMTDCell = tr.cells[5];  
                     if (loginMTDCell.textContent === "0") {
