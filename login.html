@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Secure Login & Dashboard</title>
+    <!-- Load Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script> 
+    <!-- Load Inter Font 
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">-->
+    <style>
+        /* Apply Inter font and smooth transitions */
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f7fafc; /* Light gray background */
+            transition: background-color 0.5s ease;
+        }
+        .card {
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 5px 15px -5px rgba(0, 0, 0, 0.04);
+            transition: transform 0.3s ease, opacity 0.5s ease;
+        }
+        .btn-primary {
+            transition: background-color 0.2s, transform 0.1s;
+        }
+        .btn-primary:hover {
+            background-color: #4c51bf; /* Deeper Indigo */
+            transform: translateY(-1px);
+        }
+        .btn-primary:active {
+            transform: translateY(1px);
+        }
+        /* Custom message box styling */
+        .message-box {
+            animation: fadeInOut 3s forwards;
+        }
+        @keyframes fadeInOut {
+            0% { opacity: 0; transform: translateY(10px); }
+            10% { opacity: 1; transform: translateY(0); }
+            90% { opacity: 1; transform: translateY(0); }
+            100% { opacity: 0; visibility: hidden; }
+        }
+
+        .container {
+            /*width: 98%;
+            max-width: 98%;*/
+            margin: 0;
+            background: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            overflow-x: hidden;
+        }
+
+
+        .header-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: purple; 
+            color: white;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .h1 {
+            margin:0cm;
+        }
+    
+        h3 {
+            text-align: right;
+            font-size: 13px;
+            font-style: italic;
+            font-weight: lighter;
+        }
+
+        .logo {
+            max-width: 10%;
+            height: auto;
+            margin-bottom: 1px;
+        }
+
+        h2 {
+            color: white;
+            /*background-color: purple;*/
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        #filterContainer {
+            display: block; /* Default tampil */
+            transition: all 0.3s ease;
+        }
+        
+        #toggleFilter {
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            cursor: pointer;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+        
+        #toggleFilter:hover {
+            background: #0056b3;
+        }
+        
+
+        .filter-container {
+            display: flex;
+            flex-wrap: wrap;
+            /*justify-content: space-between;*/
+            align-items: center;
+            gap: 10px;
+            padding: 15px;
+            background: #f1f1f1;
+            border-radius: 8px;
+            margin-bottom: 10px;
+            /*width: 100%;*/
+        }
+
+        input[type="text"], select {
+            width: 100%;
+            height: 100%;
+        /*  max-width: 300px;  Sesuaikan max-width sesuai kebutuhan */
+            padding: 10px;
+            margin: 5px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box; /* Biar padding tidak mempengaruhi ukuran total */
+        }
+        
+        .reset-btn {
+            background: #dc3545;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            cursor: pointer;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+
+        .table-container {
+            overflow-x: auto;
+        /*    width: 100%;*/
+        }
+
+        table {
+            width: 100%;
+            max-width: 100%;
+            border-collapse: collapse;
+            margin-top: 1px;
+            text-align: center;
+            overflow-x: auto;
+            font-size: 13px;
+        }
+        
+        th, td {
+            padding: 8px;
+            border: 1px solid #ddd;
+            text-align: center; 
+        }
+
+        td {
+            padding: 8px;
+            border: 1px solid #ddd;
+            text-align: left; 
+            white-space: nowrap;
+        }
+
+        table td:nth-child(n+6){ 
+            text-align: center;
+        }
+      
+        th {
+            background-color: #007bff;
+            color: white;
+            text-align: center;
+
+        }
+
+        .highlight-yes {
+            color: #71f28f;
+            font-weight: bold;
+        }
+
+        .highlight-no {
+            color: #d65f6b;
+            font-weight: bold;
+        }
+
+        .highlight-red {
+            color: #d65f6b;
+            font-weight: bold;
+        }
+
+        .print-btn {
+            margin-top: 20px;
+            text-align: left;
+            background: #28a745;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            cursor: pointer;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+
+        @media (max-width: 100%) {
+            .logo {
+                /*width: 20vw;
+                max-width: 100%;*/
+            }
+
+            .filter-container {
+                flex-direction: column;
+            }
+
+            input, select, .reset-btn {
+                width: 100%;
+            }
+        }
+
+    </style>
+</head>
+<body class="flex items-center justify-center min-h-screen p-4">
+
+    <!-- Message Box Container (for error/success messages) -->
+    <div id="messageContainer" class="fixed top-0 left-1/2 -translate-x-1/2 p-4 pt-8 z-50">
+        <!-- Messages will appear here -->
+    </div>
+
+    <!-- Main Application Container -->
+    <div class="w-full max-w-4xl flex justify-center">
+
+        <!-- 1. LOGIN SECTION (Initial View) -->
+        <div id="loginSection" class="w-full max-w-md card bg-white p-8 rounded-xl opacity-100 transform translate-y-0">
+            <h2 class="text-3xl font-bold text-center text-gray-800 mb-6">Welcome Back</h2>
+            <p class="text-center text-sm text-gray-500 mb-8">Use mock credentials: <code class="font-mono text-indigo-600">admin</code> / <code class="font-mono text-indigo-600">password</code></p>
+
+            <form id="loginForm" class="space-y-6">
+                <div>
+                    <label for="username" class="block text-sm font-medium text-gray-700 mb-1">Username</label>
+                    <input type="text" id="username" name="username" required
+                           class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-indigo-500 focus:border-indigo-500 transition duration-150"
+                           placeholder="Enter your username">
+                </div>
+                <div>
+                    <label for="password" class="block text-sm font-medium text-gray-700 mb-1">Password</label>
+                    <input type="password" id="password" name="password" required
+                           class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-indigo-500 focus:border-indigo-500 transition duration-150"
+                           placeholder="Enter your password">
+                </div>
+                <button type="submit"
+                        class="btn-primary w-full flex justify-center py-2 px-4 border border-transparent rounded-lg shadow-sm text-lg font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+                    Log In
+                </button>
+            </form>
+        </div>
+
+        <!-- 2. SUCCESS/DASHBOARD SECTION (Hidden Initially) -->
+        <!-- This section represents the content of 'another.html' -->
+        <div id="successSection" class="w-full card bg-white p-10 rounded-xl hidden opacity-0 transform translate-y-10">
+        <!--    <div class="text-center">
+                <svg class="mx-auto h-16 w-16 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                </svg>
+                <h2 class="mt-4 text-4xl font-extrabold text-gray-900">Login Successful!</h2>
+                <p class="mt-2 text-xl text-gray-600">Welcome to your protected dashboard.</p> 
+
+
+            <div class="mt-8 space-y-4">
+                <h3 class="text-2xl font-semibold text-indigo-700">Project Overview</h3>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                    <div class="bg-indigo-50 p-4 rounded-lg border-l-4 border-indigo-500">
+                        <p class="text-sm text-indigo-500">Tasks Complete</p>
+                        <p class="text-3xl font-bold text-gray-900">42</p>
+                    </div>
+                    <div class="bg-indigo-50 p-4 rounded-lg border-l-4 border-indigo-500">
+                        <p class="text-sm text-indigo-500">Active Users</p>
+                        <p class="text-3xl font-bold text-gray-900">12</p>
+                    </div>
+                    <div class="bg-indigo-50 p-4 rounded-lg border-l-4 border-indigo-500">
+                        <p class="text-sm text-indigo-500">Load Time</p>
+                        <p class="text-3xl font-bold text-gray-900">0.4s</p>
+                    </div>
+                </div> 
+                <p class="text-gray-700 pt-4">This content is dynamically loaded after authentication, simulating the successful redirection to `another.html`.</p>
+                <button onclick="logout()"
+                        class="mt-6 flex items-center justify-center py-2 px-4 border border-transparent rounded-lg text-base font-medium text-white bg-red-600 hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">
+                    Log Out
+                </button>
+            </div>-->
+            <button onclick="window.location.href='index.html'">
+                Akses File Lain
+            </button>
+       </div>
+
+    </div>
+
+    <script>
+        const loginForm = document.getElementById('loginForm');
+        const loginSection = document.getElementById('loginSection');
+        const successSection = document.getElementById('successSection');
+        const messageContainer = document.getElementById('messageContainer');
+
+        // --- Utility Function to Display Message (Replaces alert()) ---
+        function showMessage(text, isError = false) {
+            const el = document.createElement('div');
+            el.className = `message-box px-6 py-3 rounded-full shadow-lg text-white font-semibold mb-3 ${isError ? 'bg-red-500' : 'bg-green-500'}`;
+            el.textContent = text;
+            messageContainer.appendChild(el);
+
+            // Remove the message after animation finishes (3s)
+            setTimeout(() => {
+                el.remove();
+            }, 3000);
+        }
+
+        function goToPage(filename) {
+            // Perintah utama untuk mengubah URL browser
+            window.location.href = filename;
+
+            // Baris di bawah ini opsional, hanya untuk melihat di console
+        }
+
+        // --- Core Login Logic ---
+        loginForm.addEventListener('submit', function(event) {
+            event.preventDefault(); // Stop default form submission
+
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+
+            // Mock Authentication Check
+            const MOCK_USERNAME = 'admin';
+            const MOCK_PASSWORD = '1';
+
+            if (username === MOCK_USERNAME && password === MOCK_PASSWORD) {
+                // SUCCESS: Simulate Redirection
+                handleSuccessfulLogin();
+                goToPage("index.html")
+            } else {
+                // FAILURE
+                showMessage('Login failed. Please check your username and password.', true);
+            }
+        });
+
+        // --- Transition Handler on Success ---
+        function handleSuccessfulLogin() {
+            // 1. Show success message
+            showMessage('Login successful! Redirecting...', false);
+
+            // 2. Hide Login Section with animation
+            loginSection.style.opacity = '0';
+            loginSection.style.transform = 'translateY(-20px)';
+            loginSection.classList.remove('opacity-100');
+
+            // Wait for the login section to hide before showing the dashboard
+            setTimeout(() => {
+                loginSection.classList.add('hidden');
+
+                // 3. Show Success Section with animation
+                successSection.classList.remove('hidden');
+                setTimeout(() => {
+                    successSection.style.opacity = '1';
+                    successSection.style.transform = 'translateY(0)';
+                }, 50); // Small delay to ensure display property change is registered
+            }, 500); // Wait for the transition to complete (0.5s)
+        }
+
+        // --- Logout Logic ---
+        function logout() {
+            // 1. Show message
+            showMessage('Logging out...', false);
+
+            // 2. Hide Success Section with animation
+            successSection.style.opacity = '0';
+            successSection.style.transform = 'translateY(20px)';
+            successSection.classList.remove('opacity-100');
+
+            // Wait for the success section to hide before showing login
+            setTimeout(() => {
+                successSection.classList.add('hidden');
+
+                // 3. Reset and Show Login Section with animation
+                loginSection.classList.remove('hidden');
+                document.getElementById('username').value = '';
+                document.getElementById('password').value = '';
+
+                setTimeout(() => {
+                    loginSection.style.opacity = '1';
+                    loginSection.style.transform = 'translateY(0)';
+                }, 50);
+            }, 500);
+        }
+    </script>
+
+</body>
+</html>
