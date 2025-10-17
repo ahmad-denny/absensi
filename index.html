@@ -128,7 +128,17 @@
         }
         
         .reset-btn {
-            background: #dc3545;
+            background:darkgreen;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            cursor: pointer;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+
+        .logout-btn {
+            background:darkred;
             color: white;
             border: none;
             padding: 10px 15px;
@@ -225,7 +235,7 @@
             <img src="img/logo_mdirect.png" alt="Bank Muamalat Logo" class="logo">
         </h1>-->
 
-        <h2><img src="img/logo_mdirect.png" alt="Bank Muamalat Logo" class="logo"> <br>M-Direct Performances Region Sumatera</h2> 
+        <h2><img src="img/logo_mdirect.png" alt="Bank Muamalat Logo" class="logo"> <br>M-Direct Performances</h2> 
 
         <div class="filter-container">
             <input type="text" id="searchBox" placeholder="Name or Marketing Code..." onkeyup="filterAndSearchTable()">
@@ -251,10 +261,9 @@
                 <option value="">Login DTD</option>
                 <option value="N">NOT Login DTD</option>            
             </select>
-            <button class="reset-btn" onclick="resetFilter()">Reset Filter</button>
+            <button class="reset-btn" onclick="resetFilter()">Reset</button>
+            <button class="logout-btn" onclick="window.location.href='login.html'">Log Out</button>          
             <h3><p id="time-date"></p></h3>
-            
-
         </div>
 
         <div class="table-container">
@@ -270,6 +279,7 @@
     <button class="print-btn" onclick="printTable()">Print / Save PDF</button>
 
     <script>
+        const successSection = document.getElementById('successSection');    
         
         function updateTimeDate() {
             const now = new Date();
@@ -425,7 +435,45 @@
             window.print(); 
             document.body.innerHTML = originalContent; 
         }
+        
+        function showMessage(text, isError = false) {
+            const el = document.createElement('div');
+            el.className = `message-box px-6 py-3 rounded-full shadow-lg text-white font-semibold mb-3 ${isError ? 'bg-red-500' : 'bg-green-500'}`;
+            el.textContent = text;
+            messageContainer.appendChild(el);
+
+            // Remove the message after animation finishes (3s)
+            setTimeout(() => {
+                el.remove();
+            }, 3000);
+        }
+
+        function logout() {
+            // 1. Show message
+            showMessage('Logging out...', false);
+
+            // 2. Hide Success Section with animation
+            successSection.style.opacity = '0';
+            successSection.style.transform = 'translateY(20px)';
+            successSection.classList.remove('opacity-100');
+
+            // Wait for the success section to hide before showing login
+            setTimeout(() => {
+                successSection.classList.add('hidden');
+
+                // 3. Reset and Show Login Section with animation
+                loginSection.classList.remove('hidden');
+                document.getElementById('username').value = '';
+                document.getElementById('password').value = '';
+
+                setTimeout(() => {
+                    loginSection.style.opacity = '1';
+                    loginSection.style.transform = 'translateY(0)';
+                }, 50);
+            }, 500);
+        }
+
+
     </script>
 </body>
-
 </html>
