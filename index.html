@@ -262,7 +262,7 @@
                 <option value="N">NOT Login DTD</option>            
             </select>
             <button class="reset-btn" onclick="resetFilter()">Reset</button>
-            <button class="logout-btn" onclick="window.location.href='login.html'">Log Out</button>          
+            <button class="logout-btn" onclick="window.location.href='newlogin.html'">Log Out</button>          
             <h3><p id="time-date"></p></h3>
         </div>
 
@@ -284,7 +284,7 @@
         function updateTimeDate() {
             const now = new Date();
             const time = now.toLocaleTimeString('id-ID', { hour: '2-digit', minute: '2-digit', second: "2-digit" });
-            const date = now.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+            const date = now.toLocaleDateString('id-ID', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
             document.getElementById("time-date").innerHTML = `${date} | ${time} WIB`; 
             }
         setInterval(updateTimeDate, 1000); // Update every second
@@ -478,3 +478,4 @@
 </body>
 
 </html>
+
