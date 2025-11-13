@@ -229,7 +229,7 @@
                 </div>
                 <div class="form-group">
                     <label for="loginPassword">Password</label>
-                    <input type="password" id="loginPassword" required placeholder="Enter your password">
+                    <input type="Password" id="loginPassword" required placeholder="Enter your Password">
                 </div>
                 <button type="submit" class="btn btn-primary">Login</button>
                 <div class="form-footer">
@@ -250,11 +250,11 @@
                 </div>
                 <div class="form-group">
                     <label for="registerPassword">Password</label>
-                    <input type="password" id="registerPassword" required placeholder="Create a password">
+                    <input type="Password" id="registerPassword" required placeholder="Create a Password">
                 </div>
                 <div class="form-group">
                     <label for="registerConfirmPassword">Confirm Password</label>
-                    <input type="password" id="registerConfirmPassword" required placeholder="Confirm your password">
+                    <input type="Password" id="registerConfirmPassword" required placeholder="Confirm your Password">
                 </div>
                 <button type="submit" class="btn btn-primary">Register</button>
             </form>
@@ -336,7 +336,7 @@
             showForm('register');
         });
         
-        // Show forgot password form
+        // Show forgot Password form
         forgotPasswordLink.addEventListener('click', (e) => {
             e.preventDefault();
             showForm('forgot');
@@ -353,10 +353,10 @@
             e.preventDefault();
             
             const User = document.getElementById('loginUser').value;
-            const password = document.getElementById('loginPassword').value;
+            const Password = document.getElementById('loginPassword').value;
             
             // Find user
-            const user = users.find(u => u.User === User && u.password === password);
+            const user = users.find(u => u.User === User && u.Password === Password);
             
             if (user) {
                 // Define the destination URL
@@ -371,7 +371,7 @@
                 // Reset form
                 //loginForm.reset();                                
             } else {
-                showMessage('Invalid User or password!', false);
+                showMessage('Invalid User or Password!', false);
             }
         });
         
@@ -381,11 +381,11 @@
             
             const name = document.getElementById('registerName').value;
             const User = document.getElementById('registerUser').value;
-            const password = document.getElementById('registerPassword').value;
+            const Password = document.getElementById('registerPassword').value;
             const confirmPassword = document.getElementById('registerConfirmPassword').value;
             
             // Validation
-            if (password !== confirmPassword) {
+            if (Password !== confirmPassword) {
                 showMessage('Passwords do not match!', false);
                 return;
             }
@@ -401,7 +401,7 @@
                 id: Date.now(),
                 name: name,
                 User: User,
-                password: password
+                Password: Password
             };
             
             users.push(newUser);
@@ -412,7 +412,7 @@
             showForm('login');
         });
         
-        // Forgot password form submission
+        // Forgot Password form submission
         forgotPasswordForm.addEventListener('submit', (e) => {
             e.preventDefault();
             
@@ -437,13 +437,13 @@
                     id: 1,
                     name: 'John Doe',
                     User: 'john@example.com',
-                    password: 'password123'
+                    Password: 'Password123'
                 },
                 {
                     id: 2,
                     name: 'Jane Smith',
                     User: 'jane@example.com',
-                    password: 'mypassword'
+                    Password: 'myPassword'
                 }
             ];
             localStorage.setItem('users', JSON.stringify(users));
@@ -452,4 +452,5 @@
 </body>
 
 </html>
+
 
